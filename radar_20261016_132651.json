@@ -1,0 +1,3167 @@
+{
+ "ts": "2026-10-16 13:26:51",
+ "domains": {
+  "电话卡分销": 34,
+  "渗透绕过": 26,
+  "爬虫框架": 18,
+  "安全扫描": 34
+ },
+ "cross_bridges": 1,
+ "total": 111,
+ "new": 99,
+ "hidden_gems": 50,
+ "top": [
+  {
+   "full_name": "0xMarcio/pocindex",
+   "domains": [
+    "安全扫描",
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 1456,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:12:34Z",
+   "desc": "Search public CVE proof-of-concept exploits from GitHub, Nuclei, ExploitDB, Metasploit and Vulhub, with CVSS, EPSS and CISA KEV context.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xMarcio/pocindex"
+  },
+  {
+   "full_name": "unclecode/crawl4ai",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 85633,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T10:16:13Z",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+   "grade": "A",
+   "score": 8.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+   "full_name": "OWASP/Nettacker",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 5664,
+   "lang": "Python",
+   "pushed_at": "2026-10-09T23:32:50Z",
+   "desc": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+   "grade": "A",
+   "score": 8.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/OWASP/Nettacker"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 32057,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T08:58:37Z",
+   "desc": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you ",
+   "grade": "A",
+   "score": 7.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei"
+  },
+  {
+   "full_name": "ycdxsb/PocOrExp_in_Github",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 1218,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:12:03Z",
+   "desc": "Automatically Collect POC or EXP from GitHub by CVE ID.",
+   "grade": "A",
+   "score": 7.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/ycdxsb/PocOrExp_in_Github"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei-templates",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 13103,
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-16T03:15:42Z",
+   "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+   "grade": "B",
+   "score": 6.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:go.mod"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei-templates"
+  },
+  {
+   "full_name": "six2dez/reconftw",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 8188,
+   "lang": "Shell",
+   "pushed_at": "2026-09-26T00:13:14Z",
+   "desc": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/six2dez/reconftw"
+  },
+  {
+   "full_name": "0xKayala/NucleiFuzzer",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1867,
+   "lang": "Python",
+   "pushed_at": "2026-04-17T14:33:41Z",
+   "desc": "NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techniques",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xKayala/NucleiFuzzer"
+  },
+  {
+   "full_name": "techwithtim/Price-Tracking-Web-Scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 1295,
+   "lang": "Python",
+   "pushed_at": "2024-10-17T13:28:18Z",
+   "desc": "An automated price tracker that uses bright data, playwright, react and flask.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/techwithtim/Price-Tracking-Web-Scraper"
+  },
+  {
+   "full_name": "nomi-sec/PoC-in-GitHub",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 8127,
+   "lang": null,
+   "pushed_at": "2026-10-16T01:47:11Z",
+   "desc": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000"
+   ],
+   "url": "https://github.com/nomi-sec/PoC-in-GitHub"
+  }
+ ],
+ "new_top": [
+  {
+   "full_name": "0xMarcio/pocindex",
+   "domains": [
+    "安全扫描",
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 1456,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:12:34Z",
+   "desc": "Search public CVE proof-of-concept exploits from GitHub, Nuclei, ExploitDB, Metasploit and Vulhub, with CVSS, EPSS and CISA KEV context.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xMarcio/pocindex"
+  },
+  {
+   "full_name": "unclecode/crawl4ai",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 85633,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T10:16:13Z",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+   "grade": "A",
+   "score": 8.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+   "full_name": "OWASP/Nettacker",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 5664,
+   "lang": "Python",
+   "pushed_at": "2026-10-09T23:32:50Z",
+   "desc": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+   "grade": "A",
+   "score": 8.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/OWASP/Nettacker"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 32057,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T08:58:37Z",
+   "desc": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you ",
+   "grade": "A",
+   "score": 7.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei"
+  },
+  {
+   "full_name": "ycdxsb/PocOrExp_in_Github",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 1218,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:12:03Z",
+   "desc": "Automatically Collect POC or EXP from GitHub by CVE ID.",
+   "grade": "A",
+   "score": 7.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/ycdxsb/PocOrExp_in_Github"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei-templates",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 13103,
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-16T03:15:42Z",
+   "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+   "grade": "B",
+   "score": 6.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:go.mod"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei-templates"
+  },
+  {
+   "full_name": "six2dez/reconftw",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 8188,
+   "lang": "Shell",
+   "pushed_at": "2026-09-26T00:13:14Z",
+   "desc": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/six2dez/reconftw"
+  },
+  {
+   "full_name": "0xKayala/NucleiFuzzer",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1867,
+   "lang": "Python",
+   "pushed_at": "2026-04-17T14:33:41Z",
+   "desc": "NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techniques",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xKayala/NucleiFuzzer"
+  },
+  {
+   "full_name": "techwithtim/Price-Tracking-Web-Scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 1295,
+   "lang": "Python",
+   "pushed_at": "2024-10-17T13:28:18Z",
+   "desc": "An automated price tracker that uses bright data, playwright, react and flask.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/techwithtim/Price-Tracking-Web-Scraper"
+  },
+  {
+   "full_name": "nomi-sec/PoC-in-GitHub",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 8127,
+   "lang": null,
+   "pushed_at": "2026-10-16T01:47:11Z",
+   "desc": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000"
+   ],
+   "url": "https://github.com/nomi-sec/PoC-in-GitHub"
+  }
+ ],
+ "hidden_list": [
+  {
+   "full_name": "Mohwarsame143/mw-travel",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-05-11T23:58:50Z",
+   "desc": "Professional travel affiliate platform for flights, hotels, visas, eSIMs, and travel deals.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/Mohwarsame143/mw-travel"
+  },
+  {
+   "full_name": "rushikesh-bobade/FlipTrack",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 27,
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-29T15:56:07Z",
+   "desc": "An open-source SaaS platform for sneaker and collectibles resellers. Track inventory, analyze market prices, and manage sales with AI-powered insights.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/rushikesh-bobade/FlipTrack"
+  },
+  {
+   "full_name": "upmind/provision-provider-domain-names",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "PHP",
+   "pushed_at": "2026-10-15T17:22:21Z",
+   "desc": "This provision category contains common functions used in domain name provisioning flows with various registries and registrar/reseller platforms",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/upmind/provision-provider-domain-names"
+  },
+  {
+   "full_name": "o0lla1995-sketch/iprn-sms-panel",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16T03:37:54Z",
+   "desc": "IPRN / Premium-rate SMS traffic panel — multi-role reseller layer over a wholesale SMS platform (SMPP gateway, vendor-copy webhook, hidden margin engine)",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/o0lla1995-sketch/iprn-sms-panel"
+  },
+  {
+   "full_name": "VishalChudasama08/CarZen",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Dart",
+   "pushed_at": "2026-10-16T01:30:44Z",
+   "desc": "CarZen is an intelligent automobile marketplace and vehicle management platform that connects car buyers, sellers, and resellers. The project is developed using Python, FastAPI, MySQL, Flutter,and Machine Learning to sim",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt"
+   ],
+   "url": "https://github.com/VishalChudasama08/CarZen"
+  },
+  {
+   "full_name": "chammAyoub/Souq_Signal",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-15T20:44:55Z",
+   "desc": "🚦 Souq Signal: An AI-powered B2B market intelligence platform and real-time deal scanner for Moroccan resellers. Built with Next.js, Spring Boot, PostgreSQL, and Google Gemini API.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/chammAyoub/Souq_Signal"
+  },
+  {
+   "full_name": "nutcas3/telecom-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 76,
+   "lang": "Go",
+   "pushed_at": "2026-05-30T09:57:03Z",
+   "desc": "This is a comprehensive, sovereign cellular connectivity solution that enables organizations to deploy and manage their own private 5G/LTE networks. This full-stack platform provides end-to-end capabilities from core net",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:cargo.toml"
+   ],
+   "url": "https://github.com/nutcas3/telecom-platform"
+  },
+  {
+   "full_name": "diessylad/morrowgo",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-07T07:41:40Z",
+   "desc": "MORROWGO eSIM platform",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/diessylad/morrowgo"
+  },
+  {
+   "full_name": "dannytsehk/esim_platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-20T12:28:20Z",
+   "desc": "",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/dannytsehk/esim_platform"
+  },
+  {
+   "full_name": "wiilineme/Wiiline-sdk",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-14T10:10:01Z",
+   "desc": "The official JavaScript/TypeScript SDK for the Wiiline B2B eSIM Platform. Integrate eSIM plans, create and manage orders, retrieve QR codes, monitor usage, manage wallets, and automate workflows with webhooks through a s",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/wiilineme/Wiiline-sdk"
+  },
+  {
+   "full_name": "kennyorlando65-prog/nuvora-2.0",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-14T08:30:12Z",
+   "desc": "NUVORA 2.0 — white-label digital services platform (eSIM, top-ups, gift cards, game credits, subscriptions). Next.js on Vercel, Supabase Postgres with RLS.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/kennyorlando65-prog/nuvora-2.0"
+  },
+  {
+   "full_name": "appdotbuilder/reseller-affiliate-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2025-08-07T11:38:04Z",
+   "desc": "Created by App.build",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/appdotbuilder/reseller-affiliate-platform"
+  },
+  {
+   "full_name": "appdotbuilder/reseller-affiliate-platform-d760",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2025-08-25T09:19:57Z",
+   "desc": "Created by App.build",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/appdotbuilder/reseller-affiliate-platform-d760"
+  },
+  {
+   "full_name": "desyrahmawatiwork-gif/sellerhub-app",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-05-16T18:14:01Z",
+   "desc": "Platform management reseller, affiliate, and dropship for UMKM",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/desyrahmawatiwork-gif/sellerhub-app"
+  },
+  {
+   "full_name": "Moahmed-Mahmoud-Mahdy/bosy-affiliate",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-24T00:16:10Z",
+   "desc": "Bosy Affiliate - Reseller & Commission Order Management Platform (Next.js 16 + TypeScript + Prisma)",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/Moahmed-Mahmoud-Mahdy/bosy-affiliate"
+  },
+  {
+   "full_name": "tobikihiko-cmyk/Referra",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-06-29T21:35:40Z",
+   "desc": "AI-powered Customer Acquisition Platform for referrals, affiliates, ambassadors, partners, resellers, and field sales.",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json"
+   ],
+   "url": "https://github.com/tobikihiko-cmyk/Referra"
+  },
+  {
+   "full_name": "fankh/vulnerability-poc",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 111,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:14:10Z",
+   "desc": "CVE proof-of-concept labs, exploit scripts, and detection/prevention rules (Nginx, Apache, Snort, YARA) for high-severity CVEs. Authorized security testing & research only.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt"
+   ],
+   "url": "https://github.com/fankh/vulnerability-poc"
+  },
+  {
+   "full_name": "murrez/CVE-2026-105844",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Python",
+   "pushed_at": "2026-10-07T19:56:12Z",
+   "desc": "CVE-2026-105844 — Payload CMS @payloadcms/plugin-import-export <3.88.0 unauth prototype pollution (CWE-1321, CVSS 4.0 9.3). PoCbit PoC: POST /api/exports/export-preview fields __proto__.overrideAccess → ACL bypass / data",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/murrez/CVE-2026-105844"
+  },
+  {
+   "full_name": "liky4887-stack/cybersentinel-attack-vector-simulator",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-29T10:59:03Z",
+   "desc": "CyberSentinel: Attack Vector Simulator — an educational PoC dashboard for security researchers to visualize the lifecycle of advanced persistent threats (APTs). Dark-themed terminal aesthetic with reconnaissance, payload",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/liky4887-stack/cybersentinel-attack-vector-simulator"
+  },
+  {
+   "full_name": "cxdexx/CodexRootAtlas",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "HTML",
+   "pushed_at": "2026-10-15T14:34:21Z",
+   "desc": "CodexRootAtlas — Full-stack pentesting lab: recon, exploit dev, payloads & learning projects.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/cxdexx/CodexRootAtlas"
+  },
+  {
+   "full_name": "technicalsuraj2/AndroidPhantom",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-09-14T04:27:50Z",
+   "desc": "👻 Android Phantom — Advanced Android Pentesting Framework with Kesari·White·Green hacker UI, matrix rain, boot animation & full ADB/APK/exploit/payload/report toolset by technicalsuraj2",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/technicalsuraj2/AndroidPhantom"
+  },
+  {
+   "full_name": "kameleo-io/kameleo",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 211,
+   "lang": "C#",
+   "pushed_at": "2026-10-12T07:42:34Z",
+   "desc": "Anti-detect browser for web scraping and automation. Engine-level fingerprint masking for Chromium and Firefox. Self-hosted, Docker-ready. Integrates with Selenium, Playwright, and Puppeteer via SDKs in Python, JavaScrip",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/kameleo-io/kameleo"
+  },
+  {
+   "full_name": "ImYourBoyRoy/WebScraperToolkit",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Python",
+   "pushed_at": "2026-08-03T15:17:21Z",
+   "desc": "AI-first web scraping engine with stealth bypass, MCP server, and multimodal output (Markdown, JSON, PDF) for agents and automation.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/ImYourBoyRoy/WebScraperToolkit"
+  },
+  {
+   "full_name": "Paparusi/crawlkit",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 9,
+   "lang": "Python",
+   "pushed_at": "2026-03-21T13:36:12Z",
+   "desc": "🕷️ Open-source web crawling toolkit — Video, OCR, NLP, Stealth, 10+ parsers",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "有依赖清单:pyproject.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/Paparusi/crawlkit"
+  },
+  {
+   "full_name": "mercury-systems/distributed-stealth-scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 3,
+   "lang": "Python",
+   "pushed_at": "2026-08-29T00:15:12Z",
+   "desc": "Asynchronous multi-tier web extraction node in Python. Integrates curl_cffi TLS impersonation with proxy-isolated Playwright evasion.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/mercury-systems/distributed-stealth-scraper"
+  },
+  {
+   "full_name": "akash-kr/switchback",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 3,
+   "lang": "Python",
+   "pushed_at": "2026-10-14T17:24:20Z",
+   "desc": "🪜 Python web scraper: any URL → clean Markdown. Cheap HTTP first, Cloudflare/anti-bot stealth browser only when blocked.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/akash-kr/switchback"
+  },
+  {
+   "full_name": "stufently/ai-browser-gateway",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-09T10:36:55Z",
+   "desc": "Fetch web pages for AI agents: HTTP first, a stealth headless browser only when needed, Cloudflare-aware. One-shot Docker image, HTTP API and MCP server.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/stufently/ai-browser-gateway"
+  },
+  {
+   "full_name": "Whyslab/universal-web-scraper-template",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-09-02T11:28:39Z",
+   "desc": "Production-ready async web scraping template: Playwright + stealth, proxy rotation, retries, JSON/CSV export via CLI.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/Whyslab/universal-web-scraper-template"
+  },
+  {
+   "full_name": "yfe404/web-scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 101,
+   "lang": "TypeScript",
+   "pushed_at": "2026-03-18T12:13:46Z",
+   "desc": "Intelligent web scraping Claude Code skill with automatic strategy selection and TypeScript-first Apify Actor development",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/yfe404/web-scraper"
+  },
+  {
+   "full_name": "wochap/webscoop",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16T03:45:54Z",
+   "desc": "Record scrapers by clicking elements on a live page, then run them unattended from CLI. Real, visible Chromium with persistent profile — stays logged in. Linux Wayland/X11 only, never headless.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/wochap/webscoop"
+  },
+  {
+   "full_name": "momcilosavic1234567-creator/InsightScraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T01:58:00Z",
+   "desc": "A high-performance, asynchronous web scraper built with Python and Playwright. Features automated data extraction, anti-bot bypass, and scheduled GitHub Actions integration.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/momcilosavic1234567-creator/InsightScraper"
+  },
+  {
+   "full_name": "jryanlohmolder/nyc-housing-alert",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T00:46:41Z",
+   "desc": "Scrapes the NYC housing lottery and sends an email alert if there is a new listing. Uses PlayWright for the web scraper.  Uses smtplib and email.mime for the email notification.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/jryanlohmolder/nyc-housing-alert"
+  },
+  {
+   "full_name": "2scraper/webmotors-scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T22:52:51Z",
+   "desc": "Webmotors.com.br scraper (Playwright, Selenium, Puppeteer, or the 2Captcha Scraping Browser API via CDP) — Brazilian car and motorcycle listings, FIPE and market prices, proxies, fingerprints",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/2scraper/webmotors-scraper"
+  },
+  {
+   "full_name": "hex22a/reconductor",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Rust",
+   "pushed_at": "2026-10-15T14:03:42Z",
+   "desc": "Network scanner and vulnerability manager",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:cargo.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/hex22a/reconductor"
+  },
+  {
+   "full_name": "frkndncr/WebAnalyzer",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 24,
+   "lang": "Python",
+   "pushed_at": "2026-10-14T17:41:11Z",
+   "desc": "Open-source attack-surface scanner: subdomains, DNS, tech stack and vulnerabilities in one command. SARIF for GitHub Code Scanning, a GitHub Action, a web dashboard, and plugins that are one file each.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/frkndncr/WebAnalyzer"
+  },
+  {
+   "full_name": "LeirBaGMC/SQLi-And-Recon-Tool",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Go",
+   "pushed_at": "2026-10-14T16:23:17Z",
+   "desc": "Automated Web Vulnerability Scanner built with Go (Gin) & React. Features multi-engine detection for SQL Injection (Blind Error-based), sensitive file exposure, and insecure headers. Dockerized for educational labs.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/LeirBaGMC/SQLi-And-Recon-Tool"
+  },
+  {
+   "full_name": "sa0156553345-cmyk/Ninja-API-Hunter",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Python",
+   "pushed_at": "2026-10-13T22:18:12Z",
+   "desc": "REST API Recon & Vulnerability Scanner Tool",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/sa0156553345-cmyk/Ninja-API-Hunter"
+  },
+  {
+   "full_name": "KrishivSharma45/PortRecon",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Python",
+   "pushed_at": "2026-10-10T17:32:38Z",
+   "desc": "Multi-threaded Python network vulnerability scanner: TCP port scanning, service fingerprinting from banners, NVD CVE lookup, and severity color-coded HTML/JSON reports.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/KrishivSharma45/PortRecon"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei-action",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 290,
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-02T05:43:15Z",
+   "desc": "Vulnerability Scan with Nuclei",
+   "grade": "B",
+   "score": 6.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei-action"
+  },
+  {
+   "full_name": "blackhatethicalhacking/Nucleimonst3r",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 263,
+   "lang": "Shell",
+   "pushed_at": "2026-07-23T12:34:48Z",
+   "desc": "Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further inv",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/blackhatethicalhacking/Nucleimonst3r"
+  },
+  {
+   "full_name": "Nikolasel/nuclei-security-center",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T17:41:33Z",
+   "desc": "Self-hosted web UI for running and triaging Nuclei vulnerability scans: scan policies, naabu port discovery, cron scheduling, Tenable-style finding lifecycle, scope guardrail, OIDC/BFF auth, SARIF/CSV export.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/Nikolasel/nuclei-security-center"
+  },
+  {
+   "full_name": "mote2004/AI_Vulnerability_Scanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "JavaScript",
+   "pushed_at": "2026-05-20T03:44:17Z",
+   "desc": "AI-Driven Web Vulnerability Scanner using FastAPI, React, Nmap, Katana, Nuclei & Ollama for automated recon, vulnerability scanning, AI analysis, and PDF reporting.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/mote2004/AI_Vulnerability_Scanner"
+  },
+  {
+   "full_name": "pugazhexploit/Webpys",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Python",
+   "pushed_at": "2026-09-22T16:54:03Z",
+   "desc": "🔍 WebPyX is a powerful passive recon and vulnerability scanner built in Python. 🛡️ Performs SSL analysis, header auditing, WAF detection, and subdomain enumeration. 📦 Integrates Nmap and Nuclei for active scanning and at",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/pugazhexploit/Webpys"
+  },
+  {
+   "full_name": "MiladBahariQaragoz/etwork-Security-Lab-Recon-Vuln-Scanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-06-25T10:34:34Z",
+   "desc": "Recon and vulnerability-scan orchestrator for an isolated lab network: wraps Nmap and Nuclei, correlates findings into one CVSS-ranked report, generates nftables rules, and proves a 97% attack-surface reduction.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/MiladBahariQaragoz/etwork-Security-Lab-Recon-Vuln-Scanner"
+  },
+  {
+   "full_name": "shsingh/pqscan",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Go",
+   "pushed_at": "2026-10-16T04:43:07Z",
+   "desc": "TLS / QUIC cipher-configuration & post-quantum (PQC) readiness scanner - one small static binary, streaming JSONL, chains with subfinder/httpx/naabu/nuclei (Project Discovery style). Detects ML-KEM/hybrid groups, obsolet",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/shsingh/pqscan"
+  },
+  {
+   "full_name": "openctemio/sdk-go",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Go",
+   "pushed_at": "2026-10-16T02:14:34Z",
+   "desc": "Go SDK for OpenCTEM: API client, sensor runtime kit and ready-made scanner integrations (Nuclei, Trivy, Semgrep, CodeQL, subfinder, httpx, naabu, katana) with an SSRF-safe HTTP layer.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/openctemio/sdk-go"
+  },
+  {
+   "full_name": "openctemio/sensor",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Go",
+   "pushed_at": "2026-10-16T02:14:03Z",
+   "desc": "OpenCTEM Sensor: lightweight scanner runtime that runs Nuclei, Trivy, Semgrep, Betterleaks and recon tools close to your assets and reports results to the OpenCTEM platform.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/openctemio/sensor"
+  },
+  {
+   "full_name": "SLP-DEV1/PenX",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 3,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T23:33:14Z",
+   "desc": "PenX Open-source Windows-first security reconnaissance with 12 scanner options, local AI, and HTML/PDF/SARIF reports.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/SLP-DEV1/PenX"
+  },
+  {
+   "full_name": "guaidao2/crackweb",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 5,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T12:59:58Z",
+   "desc": "A traffic-driven web DAST scanner: browse through its proxy and it tests the requests it sees - passive analysis, replayed mutation and nuclei-compatible templates, out-of-band callbacks, HTML / JSON / SARIF reports. | 流",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod"
+   ],
+   "url": "https://github.com/guaidao2/crackweb"
+  },
+  {
+   "full_name": "xiabai2008/ruoyi-scan",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 42,
+   "lang": "Python",
+   "pushed_at": "2026-10-13T17:03:21Z",
+   "desc": "RuoYi (若依) dedicated vulnerability scanner: plugin architecture, three-state verdict, WAF bypass, exploit chains, AI POC generation, nuclei compatible. 若依专项漏洞扫描器",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/xiabai2008/ruoyi-scan"
+  }
+ ],
+ "new_list": [
+  {
+   "full_name": "0xMarcio/pocindex",
+   "domains": [
+    "安全扫描",
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 1456,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:12:34Z",
+   "desc": "Search public CVE proof-of-concept exploits from GitHub, Nuclei, ExploitDB, Metasploit and Vulhub, with CVSS, EPSS and CISA KEV context.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xMarcio/pocindex"
+  },
+  {
+   "full_name": "unclecode/crawl4ai",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 85633,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T10:16:13Z",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.",
+   "grade": "A",
+   "score": 8.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/unclecode/crawl4ai"
+  },
+  {
+   "full_name": "OWASP/Nettacker",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 5664,
+   "lang": "Python",
+   "pushed_at": "2026-10-09T23:32:50Z",
+   "desc": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+   "grade": "A",
+   "score": 8.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/OWASP/Nettacker"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 32057,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T08:58:37Z",
+   "desc": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you ",
+   "grade": "A",
+   "score": 7.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei"
+  },
+  {
+   "full_name": "ycdxsb/PocOrExp_in_Github",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 1218,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:12:03Z",
+   "desc": "Automatically Collect POC or EXP from GitHub by CVE ID.",
+   "grade": "A",
+   "score": 7.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/ycdxsb/PocOrExp_in_Github"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei-templates",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 13103,
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-16T03:15:42Z",
+   "desc": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+   "grade": "B",
+   "score": 6.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有依赖清单:go.mod"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei-templates"
+  },
+  {
+   "full_name": "six2dez/reconftw",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 8188,
+   "lang": "Shell",
+   "pushed_at": "2026-09-26T00:13:14Z",
+   "desc": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/six2dez/reconftw"
+  },
+  {
+   "full_name": "0xKayala/NucleiFuzzer",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1867,
+   "lang": "Python",
+   "pushed_at": "2026-04-17T14:33:41Z",
+   "desc": "NucleiFuzzer is a robust automation tool that efficiently detects web application vulnerabilities, including XSS, SQLi, SSRF, and Open Redirects, leveraging advanced scanning and URL enumeration techniques",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xKayala/NucleiFuzzer"
+  },
+  {
+   "full_name": "techwithtim/Price-Tracking-Web-Scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 1295,
+   "lang": "Python",
+   "pushed_at": "2024-10-17T13:28:18Z",
+   "desc": "An automated price tracker that uses bright data, playwright, react and flask.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/techwithtim/Price-Tracking-Web-Scraper"
+  },
+  {
+   "full_name": "nomi-sec/PoC-in-GitHub",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 8127,
+   "lang": null,
+   "pushed_at": "2026-10-16T01:47:11Z",
+   "desc": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000"
+   ],
+   "url": "https://github.com/nomi-sec/PoC-in-GitHub"
+  },
+  {
+   "full_name": "Mr-xn/Penetration_Testing_POC",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 7517,
+   "lang": "HTML",
+   "pushed_at": "2026-10-16T03:59:45Z",
+   "desc": "渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000"
+   ],
+   "url": "https://github.com/Mr-xn/Penetration_Testing_POC"
+  },
+  {
+   "full_name": "topscoder/nuclei-wordfence-cve",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1297,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T11:43:05Z",
+   "desc": "80k+ WordPress Nuclei templates, updated daily from Wordfence intel—filter by severity/tags/CVE and scan in one line. 🚀🔒",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "star>=1000"
+   ],
+   "url": "https://github.com/topscoder/nuclei-wordfence-cve"
+  },
+  {
+   "full_name": "OSTEsayed/OSTE-Meta-Scan",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 306,
+   "lang": "Python",
+   "pushed_at": "2025-09-08T17:11:25Z",
+   "desc": "The OSTE meta scanner is a comprehensive web vulnerability scanner that combines multiple DAST scanners, including Nikto Scanner, ZAP, Nuclei, SkipFish, and Wapiti.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/OSTEsayed/OSTE-Meta-Scan"
+  },
+  {
+   "full_name": "frohoff/ysoserial",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 9092,
+   "lang": "Java",
+   "pushed_at": "2025-12-04T04:07:31Z",
+   "desc": "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "star>=1000",
+    "可容器化"
+   ],
+   "url": "https://github.com/frohoff/ysoserial"
+  },
+  {
+   "full_name": "s0md3v/Striker",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2349,
+   "lang": "Python",
+   "pushed_at": "2023-06-04T20:15:11Z",
+   "desc": "Striker is an offensive information and vulnerability scanner.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "star>=1000",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/s0md3v/Striker"
+  },
+  {
+   "full_name": "Mehdi0x90/Web_Hacking",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 818,
+   "lang": null,
+   "pushed_at": "2026-08-22T14:53:41Z",
+   "desc": "Bug Bounty Tricks and useful payloads and bypasses for Web Application Security.",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/Mehdi0x90/Web_Hacking"
+  },
+  {
+   "full_name": "SecNN/AiScan-N",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 575,
+   "lang": null,
+   "pushed_at": "2026-09-22T10:05:00Z",
+   "desc": "AiScan-N 来了！这是一款基于人工智能驱动的Ai自动化网络安全（运维）工具，专注于网络安全评估、漏洞扫描、运维、应急响应、渗透测试自动化，Ai大模型工具集【CLI Agent】 ，Ai驱动的安全检测技术，提升安全测试（运维）效率，专为企业和个人用户打造，尤其适合初学者（小白）快速上手使用，让你轻松迈入智能安全攻防时代！适用场景 ：如（红队演练、CTF比赛、Web应用渗透测试、内网横向移动、密码破解与暴力攻击、流量分析与威胁检测、A",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/SecNN/AiScan-N"
+  },
+  {
+   "full_name": "0xKayala/NucleiScanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 347,
+   "lang": "Shell",
+   "pushed_at": "2025-03-26T12:49:03Z",
+   "desc": "NucleiScanner is a Powerful Automation tool for detecting Unknown Vulnerabilities in the Web Applications",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "有根目录入口"
+   ],
+   "url": "https://github.com/0xKayala/NucleiScanner"
+  },
+  {
+   "full_name": "get-set-fetch/scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 112,
+   "lang": "TypeScript",
+   "pushed_at": "2023-03-13T10:40:11Z",
+   "desc": "Nodejs web scraper. Contains a command line, docker container, terraform module and ansible roles for distributed cloud scraping. Supported databases: SQLite, MySQL, PostgreSQL. Supported headless clients: Puppeteer, Pla",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/get-set-fetch/scraper"
+  },
+  {
+   "full_name": "XiaomingX/data-cve-poc-py-v1",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 46,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T03:51:06Z",
+   "desc": "这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt"
+   ],
+   "url": "https://github.com/XiaomingX/data-cve-poc-py-v1"
+  },
+  {
+   "full_name": "alihajipoor/neoconnect",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16T03:09:30Z",
+   "desc": "NeoConnect - multi-protocol VPN reseller platform",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod"
+   ],
+   "url": "https://github.com/alihajipoor/neoconnect"
+  },
+  {
+   "full_name": "Tawffik/BugBountyCI",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T03:58:36Z",
+   "desc": "Zero Track — AI-assisted bug bounty recon & vulnerability discovery pipeline on GitHub Actions (interesting-host prioritization, Tor-aware reliability, triage-ready artifacts)",
+   "grade": "C",
+   "score": 3.5,
+   "why": [
+    "近半年有提交",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/Tawffik/BugBountyCI"
+  },
+  {
+   "full_name": "robotshell/magicRecon",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1055,
+   "lang": "Shell",
+   "pushed_at": "2024-07-23T10:51:49Z",
+   "desc": "MagicRecon is a powerful shell script to maximize the recon and data collection process of an objective and finding common vulnerabilities, all this saving the results obtained in an organized way in directories and with",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "star>=1000",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/robotshell/magicRecon"
+  },
+  {
+   "full_name": "prashantghimire/sofifa-web-scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 66,
+   "lang": "Python",
+   "pushed_at": "2025-10-15T02:11:50Z",
+   "desc": "Python(Playwright) based scrapper for over 18k detailed players info and stats from EA FC 25 from SoFIFA.com.",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/prashantghimire/sofifa-web-scraper"
+  },
+  {
+   "full_name": "Reloadly/sample-airtime-topup-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 32,
+   "lang": "Blade",
+   "pushed_at": "2023-11-17T09:48:32Z",
+   "desc": "Open source airtime and data top-up platform for distributors and e-com sites to use as white label. With complete Admin/Reseller/Customer side. Fully loaded with the Reloadly API. Easy to use and can be customized/white",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/Reloadly/sample-airtime-topup-platform"
+  },
+  {
+   "full_name": "nrbnayon/eSIM-Data-Plan",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 3,
+   "lang": "JavaScript",
+   "pushed_at": "2025-10-22T19:17:36Z",
+   "desc": "The purpose of this project is to create a unified platform where travelers can easily find the best eSIM data plans without visiting multiple provider websites. By integrating various eSIM provider APIs into a single ap",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/nrbnayon/eSIM-Data-Plan"
+  },
+  {
+   "full_name": "EdouardDelgatte/esim-deals-site",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "TypeScript",
+   "pushed_at": "2026-03-01T15:05:34Z",
+   "desc": "SEO-optimized eSIM deals affiliate site built with Next.js 14. Compare international data plans with real-time pricing and affiliate links.",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/EdouardDelgatte/esim-deals-site"
+  },
+  {
+   "full_name": "zonely-gen-tr/ZonelyPartner",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "PowerShell",
+   "pushed_at": "2026-04-12T21:18:50Z",
+   "desc": "It is designed for partners, resellers, and platform administrators who want to create and manage licenses through the Zonely affiliate system.",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "近半年有提交",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/zonely-gen-tr/ZonelyPartner"
+  },
+  {
+   "full_name": "maux339-cpu/exploits",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "PowerShell",
+   "pushed_at": "2026-09-13T06:17:21Z",
+   "desc": "HUB canônico unificado: AI/redteam pentest (submodules) + OSINT + DeFi skills. Lab/autorizado only. Não é dump de payload.",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "近半年有提交",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/maux339-cpu/exploits"
+  },
+  {
+   "full_name": "magang-b2-2026/Crawler-Demo-Haga",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T03:11:31Z",
+   "desc": "Eksplorasi dan benchmark web crawler/scraper menggunakan Browser Use (Gemini) dan Playwright.",
+   "grade": "C",
+   "score": 3.0,
+   "why": [
+    "近半年有提交",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/magang-b2-2026/Crawler-Demo-Haga"
+  },
+  {
+   "full_name": "tc4dy/CVE-2026-41091-PoC-Exploit",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 4,
+   "lang": "C++",
+   "pushed_at": "2026-10-15T20:17:48Z",
+   "desc": "CVE-2026-41091 RedSun | Microsoft Defender LPE exploit. Low-privileged users gain NT AUTHORITY\\SYSTEM - via Cloud Files API + NTFS junction trickery. Forces Defender to write malicious payloads to System32 with SYSTEM ri",
+   "grade": "C",
+   "score": 2.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/tc4dy/CVE-2026-41091-PoC-Exploit"
+  },
+  {
+   "full_name": "DiamaneOS/platform_packages_apps_DiamaneOSEuicc",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Kotlin",
+   "pushed_at": "2026-10-15T08:55:22Z",
+   "desc": "eSIM manager (LPA) for DiamaneOS",
+   "grade": "C",
+   "score": 2.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/DiamaneOS/platform_packages_apps_DiamaneOSEuicc"
+  },
+  {
+   "full_name": "blockstylist/esim-affiliate-tool",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "PHP",
+   "pushed_at": "2026-04-03T16:44:00Z",
+   "desc": "",
+   "grade": "C",
+   "score": 2.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/blockstylist/esim-affiliate-tool"
+  },
+  {
+   "full_name": "caks0895-rgb/x402-giftcard-buyer-unofficial",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-08-08T16:15:05Z",
+   "desc": "Unofficial community Agent Skill to buy gift cards, vouchers, mobile top-ups & eSIMs from Bitrefill x402 public API via Paybox-connected crypto wallet (USDC). Not affiliated with Bitrefill.",
+   "grade": "C",
+   "score": 2.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/caks0895-rgb/x402-giftcard-buyer-unofficial"
+  },
+  {
+   "full_name": "user123-cry/Rynex",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-10-14T06:55:41Z",
+   "desc": "🔍 Scan and exploit vulnerabilities effectively with Rynex, a Rust-based framework featuring a TOML-based PoC DSL for streamlined security testing.",
+   "grade": "C",
+   "score": 2.5,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/user123-cry/Rynex"
+  },
+  {
+   "full_name": "helloexp/0day",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 2366,
+   "lang": "C",
+   "pushed_at": "2023-09-12T00:58:34Z",
+   "desc": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "star>=1000"
+   ],
+   "url": "https://github.com/helloexp/0day"
+  },
+  {
+   "full_name": "InfoSecWarrior/Offensive-Payloads",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 458,
+   "lang": "PHP",
+   "pushed_at": "2026-03-16T12:36:54Z",
+   "desc": "List of payloads and wordlists that are specifically crafted to identify and exploit vulnerabilities in target web applications.",
+   "grade": "C",
+   "score": 2.0,
+   "why": [],
+   "url": "https://github.com/InfoSecWarrior/Offensive-Payloads"
+  },
+  {
+   "full_name": "api-evangelist/vendasta",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-10-15T22:28:07Z",
+   "desc": "Vendasta — independent third-party profile of a public API surface, by API Evangelist. Vendasta is an end-to-end commerce and operating platform that lets agencies, media companies, banks, telcos and other channel partne",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/api-evangelist/vendasta"
+  },
+  {
+   "full_name": "alchipo/esim-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-07-04T12:52:14Z",
+   "desc": "",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/alchipo/esim-platform"
+  },
+  {
+   "full_name": "novarill/tripnet-ai",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-10-14T09:51:12Z",
+   "desc": "AI-powered eSIM travel platform featuring personalized plan recommendations, flexible group buying, and proactive data usage monitoring.",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/novarill/tripnet-ai"
+  },
+  {
+   "full_name": "karatellll/esim-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-10-13T13:54:52Z",
+   "desc": "",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/karatellll/esim-platform"
+  },
+  {
+   "full_name": "leonid-cordon/travelradar-lk",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "HTML",
+   "pushed_at": "2026-08-05T09:48:14Z",
+   "desc": "Travel Radar LK — one-page travel landing page (Egypt winter tips) with quick checklists + links to Booking, flights, insurance & eSIM. MVP for affiliate conversions.",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/leonid-cordon/travelradar-lk"
+  },
+  {
+   "full_name": "devwithsk/Affiliate-Profit-Tracker-MIS",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-07-05T13:03:00Z",
+   "desc": "This project is a dynamic Microsoft Excel dashboard designed to track, calculate, and visualize actual confirmed profits for affiliate marketers and resellers working across multiple platforms",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/devwithsk/Affiliate-Profit-Tracker-MIS"
+  },
+  {
+   "full_name": "cyber-Megha/Manual-Web-Penetration-Testing-and-Core-Vulnerability-Exploitation",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-09-23T15:46:39Z",
+   "desc": "Hands-on manual penetration testing and Proof-of-Concept (PoC) exploitation framework targeting OWASP Top 10 vulnerabilities (SQLi, XSS, CSRF, Path Traversal) via advanced payload injection and DOM weaponization.",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/cyber-Megha/Manual-Web-Penetration-Testing-and-Core-Vulnerability-Exploitation"
+  },
+  {
+   "full_name": "NoIdea00/Web-Recon-Vulnerability-Scanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Shell",
+   "pushed_at": "2025-05-15T15:29:20Z",
+   "desc": "Automated Web Recon & Vulnerability Scanner using httpx, naabu, nuclei, dalfox, and nikto.",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "有根目录入口"
+   ],
+   "url": "https://github.com/NoIdea00/Web-Recon-Vulnerability-Scanner"
+  },
+  {
+   "full_name": "api-evangelist/nuclei",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": null,
+   "pushed_at": "2026-10-09T18:48:04Z",
+   "desc": "Nuclei — independent third-party profile of a public API surface, by API Evangelist. Nuclei is an open source vulnerability scanner from ProjectDiscovery that uses YAML-based templates to find security issues in APIs, we",
+   "grade": "C",
+   "score": 2.0,
+   "why": [
+    "近半年有提交"
+   ],
+   "url": "https://github.com/api-evangelist/nuclei"
+  },
+  {
+   "full_name": "l0n3m4n/CVE-2024-6387",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 114,
+   "lang": "C",
+   "pushed_at": "2024-07-05T15:19:28Z",
+   "desc": "PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (Scanner and Exploit) ",
+   "grade": "C",
+   "score": 1.5,
+   "why": [
+    "有根目录入口"
+   ],
+   "url": "https://github.com/l0n3m4n/CVE-2024-6387"
+  },
+  {
+   "full_name": "raghid-setiawan/TipsCommand-Nuclei-Scanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": null,
+   "pushed_at": "2026-01-29T07:57:54Z",
+   "desc": "Repository pembelajaran dan referensi penggunaan Nuclei untuk reconnaissance dan vulnerability scanning pada pengujian keamanan aplikasi yang legal dan berizin. Fokus pada penggunaan target langsung, target list, templat",
+   "grade": "C",
+   "score": 1.0,
+   "why": [],
+   "url": "https://github.com/raghid-setiawan/TipsCommand-Nuclei-Scanner"
+  },
+  {
+   "full_name": "thenurhabib/r3con",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 35,
+   "lang": "Shell",
+   "pushed_at": "2022-05-02T13:46:03Z",
+   "desc": "Multi-functional Web Recon & Vulnerability Scanner Tool",
+   "grade": "C",
+   "score": 0.5,
+   "why": [
+    "有根目录入口"
+   ],
+   "url": "https://github.com/thenurhabib/r3con"
+  },
+  {
+   "full_name": "SimoxyKits/ESimKit-ios",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Objective-C",
+   "pushed_at": "2024-11-27T14:58:49Z",
+   "desc": "Simoxy ESimKit iOS Framework",
+   "grade": "C",
+   "score": 0.5,
+   "why": [],
+   "url": "https://github.com/SimoxyKits/ESimKit-ios"
+  },
+  {
+   "full_name": "ankitk160/Reseller",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "CSS",
+   "pushed_at": "2024-10-17T14:39:06Z",
+   "desc": "Reseller is a Spring MVC web app using MyBatis and MySQL with a responsive Bootstrap UI. Affiliates get real-time insights on campaign performance, while admins manage accounts, track conversions, and process payouts. Se",
+   "grade": "C",
+   "score": 0.5,
+   "why": [],
+   "url": "https://github.com/ankitk160/Reseller"
+  },
+  {
+   "full_name": "paboldin/meltdown-exploit",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 951,
+   "lang": "C",
+   "pushed_at": "2018-02-14T14:25:17Z",
+   "desc": "Meltdown Exploit PoC",
+   "grade": "C",
+   "score": -0.5,
+   "why": [
+    "超过5年没动",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/paboldin/meltdown-exploit"
+  },
+  {
+   "full_name": "V-E-O/PoC",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 309,
+   "lang": "C",
+   "pushed_at": "2018-07-03T09:54:50Z",
+   "desc": "PoC of CVE/Exploit",
+   "grade": "C",
+   "score": -0.5,
+   "why": [
+    "超过5年没动",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/V-E-O/PoC"
+  },
+  {
+   "full_name": "Cloudcone/partner-whmcs",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 4,
+   "lang": "PHP",
+   "pushed_at": "2022-10-17T07:51:29Z",
+   "desc": "CloudCone Partner/Reseller platform WHMCS module",
+   "grade": "C",
+   "score": -1.0,
+   "why": [],
+   "url": "https://github.com/Cloudcone/partner-whmcs"
+  },
+  {
+   "full_name": "lockedbyte/CVE-Exploits",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 690,
+   "lang": "C",
+   "pushed_at": "2021-08-21T02:56:13Z",
+   "desc": "PoC exploits for software vulnerabilities",
+   "grade": "C",
+   "score": -1.5,
+   "why": [
+    "超过5年没动"
+   ],
+   "url": "https://github.com/lockedbyte/CVE-Exploits"
+  },
+  {
+   "full_name": "alexasomba/flutterwave-rave-firebirdcloud-domain-hosting-reseller-php-payment-integration-kit",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 4,
+   "lang": "PHP",
+   "pushed_at": "2018-11-08T14:14:39Z",
+   "desc": "Get your domain and web hosting reseller business started instantly at no cost and accept payment using this Flutterwave Rave PHP payment gateway integration kit. Become the \"Domain and Hosting Reseller\" with Nigeria's l",
+   "grade": "C",
+   "score": -2.5,
+   "why": [
+    "超过5年没动"
+   ],
+   "url": "https://github.com/alexasomba/flutterwave-rave-firebirdcloud-domain-hosting-reseller-php-payment-integration-kit"
+  },
+  {
+   "full_name": "projectdiscovery/nuclei-action",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 290,
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-02T05:43:15Z",
+   "desc": "Vulnerability Scan with Nuclei",
+   "grade": "B",
+   "score": 6.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/projectdiscovery/nuclei-action"
+  },
+  {
+   "full_name": "xiabai2008/ruoyi-scan",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 42,
+   "lang": "Python",
+   "pushed_at": "2026-10-13T17:03:21Z",
+   "desc": "RuoYi (若依) dedicated vulnerability scanner: plugin architecture, three-state verdict, WAF bypass, exploit chains, AI POC generation, nuclei compatible. 若依专项漏洞扫描器",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/xiabai2008/ruoyi-scan"
+  },
+  {
+   "full_name": "rushikesh-bobade/FlipTrack",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 27,
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-29T15:56:07Z",
+   "desc": "An open-source SaaS platform for sneaker and collectibles resellers. Track inventory, analyze market prices, and manage sales with AI-powered insights.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/rushikesh-bobade/FlipTrack"
+  },
+  {
+   "full_name": "frkndncr/WebAnalyzer",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 24,
+   "lang": "Python",
+   "pushed_at": "2026-10-14T17:41:11Z",
+   "desc": "Open-source attack-surface scanner: subdomains, DNS, tech stack and vulnerabilities in one command. SARIF for GitHub Code Scanning, a GitHub Action, a web dashboard, and plugins that are one file each.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/frkndncr/WebAnalyzer"
+  },
+  {
+   "full_name": "2scraper/webmotors-scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T22:52:51Z",
+   "desc": "Webmotors.com.br scraper (Playwright, Selenium, Puppeteer, or the 2Captcha Scraping Browser API via CDP) — Brazilian car and motorcycle listings, FIPE and market prices, proxies, fingerprints",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/2scraper/webmotors-scraper"
+  },
+  {
+   "full_name": "hex22a/reconductor",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Rust",
+   "pushed_at": "2026-10-15T14:03:42Z",
+   "desc": "Network scanner and vulnerability manager",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:cargo.toml",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/hex22a/reconductor"
+  },
+  {
+   "full_name": "Nikolasel/nuclei-security-center",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T17:41:33Z",
+   "desc": "Self-hosted web UI for running and triaging Nuclei vulnerability scans: scan policies, naabu port discovery, cron scheduling, Tenable-style finding lifecycle, scope guardrail, OIDC/BFF auth, SARIF/CSV export.",
+   "grade": "B",
+   "score": 6.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/Nikolasel/nuclei-security-center"
+  },
+  {
+   "full_name": "fankh/vulnerability-poc",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 111,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T05:14:10Z",
+   "desc": "CVE proof-of-concept labs, exploit scripts, and detection/prevention rules (Nginx, Apache, Snort, YARA) for high-severity CVEs. Authorized security testing & research only.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt"
+   ],
+   "url": "https://github.com/fankh/vulnerability-poc"
+  },
+  {
+   "full_name": "LeirBaGMC/SQLi-And-Recon-Tool",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Go",
+   "pushed_at": "2026-10-14T16:23:17Z",
+   "desc": "Automated Web Vulnerability Scanner built with Go (Gin) & React. Features multi-engine detection for SQL Injection (Blind Error-based), sensitive file exposure, and insecure headers. Dockerized for educational labs.",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/LeirBaGMC/SQLi-And-Recon-Tool"
+  },
+  {
+   "full_name": "o0lla1995-sketch/iprn-sms-panel",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16T03:37:54Z",
+   "desc": "IPRN / Premium-rate SMS traffic panel — multi-role reseller layer over a wholesale SMS platform (SMPP gateway, vendor-copy webhook, hidden margin engine)",
+   "grade": "B",
+   "score": 5.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/o0lla1995-sketch/iprn-sms-panel"
+  },
+  {
+   "full_name": "blackhatethicalhacking/Nucleimonst3r",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 263,
+   "lang": "Shell",
+   "pushed_at": "2026-07-23T12:34:48Z",
+   "desc": "Nucleimonst3r is a powerful vulnerability scanner that can help Bug Bounty Hunters find low hanging fruit vulnerabilities for known CVEs and exploits but also gather all the technology running behind them for further inv",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/blackhatethicalhacking/Nucleimonst3r"
+  },
+  {
+   "full_name": "yfe404/web-scraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 101,
+   "lang": "TypeScript",
+   "pushed_at": "2026-03-18T12:13:46Z",
+   "desc": "Intelligent web scraping Claude Code skill with automatic strategy selection and TypeScript-first Apify Actor development",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/yfe404/web-scraper"
+  },
+  {
+   "full_name": "SLP-DEV1/PenX",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 3,
+   "lang": "Python",
+   "pushed_at": "2026-10-15T23:33:14Z",
+   "desc": "PenX Open-source Windows-first security reconnaissance with 12 scanner options, local AI, and HTML/PDF/SARIF reports.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/SLP-DEV1/PenX"
+  },
+  {
+   "full_name": "murrez/CVE-2026-105844",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Python",
+   "pushed_at": "2026-10-07T19:56:12Z",
+   "desc": "CVE-2026-105844 — Payload CMS @payloadcms/plugin-import-export <3.88.0 unauth prototype pollution (CWE-1321, CVSS 4.0 9.3). PoCbit PoC: POST /api/exports/export-preview fields __proto__.overrideAccess → ACL bypass / data",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/murrez/CVE-2026-105844"
+  },
+  {
+   "full_name": "sa0156553345-cmyk/Ninja-API-Hunter",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Python",
+   "pushed_at": "2026-10-13T22:18:12Z",
+   "desc": "REST API Recon & Vulnerability Scanner Tool",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/sa0156553345-cmyk/Ninja-API-Hunter"
+  },
+  {
+   "full_name": "openctemio/sensor",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 2,
+   "lang": "Go",
+   "pushed_at": "2026-10-16T02:14:03Z",
+   "desc": "OpenCTEM Sensor: lightweight scanner runtime that runs Nuclei, Trivy, Semgrep, Betterleaks and recon tools close to your assets and reports results to the OpenCTEM platform.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/openctemio/sensor"
+  },
+  {
+   "full_name": "kennyorlando65-prog/nuvora-2.0",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-14T08:30:12Z",
+   "desc": "NUVORA 2.0 — white-label digital services platform (eSIM, top-ups, gift cards, game credits, subscriptions). Next.js on Vercel, Supabase Postgres with RLS.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/kennyorlando65-prog/nuvora-2.0"
+  },
+  {
+   "full_name": "KrishivSharma45/PortRecon",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Python",
+   "pushed_at": "2026-10-10T17:32:38Z",
+   "desc": "Multi-threaded Python network vulnerability scanner: TCP port scanning, service fingerprinting from banners, NVD CVE lookup, and severity color-coded HTML/JSON reports.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/KrishivSharma45/PortRecon"
+  },
+  {
+   "full_name": "openctemio/sdk-go",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 1,
+   "lang": "Go",
+   "pushed_at": "2026-10-16T02:14:34Z",
+   "desc": "Go SDK for OpenCTEM: API client, sensor runtime kit and ready-made scanner integrations (Nuclei, Trivy, Semgrep, CodeQL, subfinder, httpx, naabu, katana) with an SSRF-safe HTTP layer.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "可容器化"
+   ],
+   "url": "https://github.com/openctemio/sdk-go"
+  },
+  {
+   "full_name": "chammAyoub/Souq_Signal",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-15T20:44:55Z",
+   "desc": "🚦 Souq Signal: An AI-powered B2B market intelligence platform and real-time deal scanner for Moroccan resellers. Built with Next.js, Spring Boot, PostgreSQL, and Google Gemini API.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/chammAyoub/Souq_Signal"
+  },
+  {
+   "full_name": "wiilineme/Wiiline-sdk",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-14T10:10:01Z",
+   "desc": "The official JavaScript/TypeScript SDK for the Wiiline B2B eSIM Platform. Integrate eSIM plans, create and manage orders, retrieve QR codes, monitor usage, manage wallets, and automate workflows with webhooks through a s",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/wiilineme/Wiiline-sdk"
+  },
+  {
+   "full_name": "cxdexx/CodexRootAtlas",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "HTML",
+   "pushed_at": "2026-10-15T14:34:21Z",
+   "desc": "CodexRootAtlas — Full-stack pentesting lab: recon, exploit dev, payloads & learning projects.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/cxdexx/CodexRootAtlas"
+  },
+  {
+   "full_name": "technicalsuraj2/AndroidPhantom",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-09-14T04:27:50Z",
+   "desc": "👻 Android Phantom — Advanced Android Pentesting Framework with Kesari·White·Green hacker UI, matrix rain, boot animation & full ADB/APK/exploit/payload/report toolset by technicalsuraj2",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/technicalsuraj2/AndroidPhantom"
+  },
+  {
+   "full_name": "wochap/webscoop",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-10-16T03:45:54Z",
+   "desc": "Record scrapers by clicking elements on a live page, then run them unattended from CLI. Real, visible Chromium with persistent profile — stays logged in. Linux Wayland/X11 only, never headless.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/wochap/webscoop"
+  },
+  {
+   "full_name": "momcilosavic1234567-creator/InsightScraper",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T01:58:00Z",
+   "desc": "A high-performance, asynchronous web scraper built with Python and Playwright. Features automated data extraction, anti-bot bypass, and scheduled GitHub Actions integration.",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/momcilosavic1234567-creator/InsightScraper"
+  },
+  {
+   "full_name": "shsingh/pqscan",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Go",
+   "pushed_at": "2026-10-16T04:43:07Z",
+   "desc": "TLS / QUIC cipher-configuration & post-quantum (PQC) readiness scanner - one small static binary, streaming JSONL, chains with subfinder/httpx/naabu/nuclei (Project Discovery style). Detects ML-KEM/hybrid groups, obsolet",
+   "grade": "B",
+   "score": 5.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/shsingh/pqscan"
+  },
+  {
+   "full_name": "upmind/provision-provider-domain-names",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "PHP",
+   "pushed_at": "2026-10-15T17:22:21Z",
+   "desc": "This provision category contains common functions used in domain name provisioning flows with various registries and registrar/reseller platforms",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/upmind/provision-provider-domain-names"
+  },
+  {
+   "full_name": "pugazhexploit/Webpys",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 6,
+   "lang": "Python",
+   "pushed_at": "2026-09-22T16:54:03Z",
+   "desc": "🔍 WebPyX is a powerful passive recon and vulnerability scanner built in Python. 🛡️ Performs SSL analysis, header auditing, WAF detection, and subdomain enumeration. 📦 Integrates Nmap and Nuclei for active scanning and at",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/pugazhexploit/Webpys"
+  },
+  {
+   "full_name": "Mohwarsame143/mw-travel",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-05-11T23:58:50Z",
+   "desc": "Professional travel affiliate platform for flights, hotels, visas, eSIMs, and travel deals.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/Mohwarsame143/mw-travel"
+  },
+  {
+   "full_name": "diessylad/morrowgo",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "JavaScript",
+   "pushed_at": "2026-10-07T07:41:40Z",
+   "desc": "MORROWGO eSIM platform",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/diessylad/morrowgo"
+  },
+  {
+   "full_name": "dannytsehk/esim_platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "JavaScript",
+   "pushed_at": "2026-09-20T12:28:20Z",
+   "desc": "",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/dannytsehk/esim_platform"
+  },
+  {
+   "full_name": "desyrahmawatiwork-gif/sellerhub-app",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-05-16T18:14:01Z",
+   "desc": "Platform management reseller, affiliate, and dropship for UMKM",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/desyrahmawatiwork-gif/sellerhub-app"
+  },
+  {
+   "full_name": "Moahmed-Mahmoud-Mahdy/bosy-affiliate",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-08-24T00:16:10Z",
+   "desc": "Bosy Affiliate - Reseller & Commission Order Management Platform (Next.js 16 + TypeScript + Prisma)",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/Moahmed-Mahmoud-Mahdy/bosy-affiliate"
+  },
+  {
+   "full_name": "liky4887-stack/cybersentinel-attack-vector-simulator",
+   "domains": [
+    "渗透绕过"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-09-29T10:59:03Z",
+   "desc": "CyberSentinel: Attack Vector Simulator — an educational PoC dashboard for security researchers to visualize the lifecycle of advanced persistent threats (APTs). Dark-themed terminal aesthetic with reconnaissance, payload",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/liky4887-stack/cybersentinel-attack-vector-simulator"
+  },
+  {
+   "full_name": "jryanlohmolder/nyc-housing-alert",
+   "domains": [
+    "爬虫框架"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-10-16T00:46:41Z",
+   "desc": "Scrapes the NYC housing lottery and sends an email alert if there is a new listing. Uses PlayWright for the web scraper.  Uses smtplib and email.mime for the email notification.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/jryanlohmolder/nyc-housing-alert"
+  },
+  {
+   "full_name": "mote2004/AI_Vulnerability_Scanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "JavaScript",
+   "pushed_at": "2026-05-20T03:44:17Z",
+   "desc": "AI-Driven Web Vulnerability Scanner using FastAPI, React, Nmap, Katana, Nuclei & Ollama for automated recon, vulnerability scanning, AI analysis, and PDF reporting.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/mote2004/AI_Vulnerability_Scanner"
+  },
+  {
+   "full_name": "MiladBahariQaragoz/etwork-Security-Lab-Recon-Vuln-Scanner",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Python",
+   "pushed_at": "2026-06-25T10:34:34Z",
+   "desc": "Recon and vulnerability-scan orchestrator for an isolated lab network: wraps Nmap and Nuclei, correlates findings into one CVSS-ranked report, generates nftables rules, and proves a 97% attack-surface reduction.",
+   "grade": "B",
+   "score": 4.5,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:pyproject.toml",
+    "有根目录入口"
+   ],
+   "url": "https://github.com/MiladBahariQaragoz/etwork-Security-Lab-Recon-Vuln-Scanner"
+  },
+  {
+   "full_name": "nutcas3/telecom-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 76,
+   "lang": "Go",
+   "pushed_at": "2026-05-30T09:57:03Z",
+   "desc": "This is a comprehensive, sovereign cellular connectivity solution that enables organizations to deploy and manage their own private 5G/LTE networks. This full-stack platform provides end-to-end capabilities from core net",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:cargo.toml"
+   ],
+   "url": "https://github.com/nutcas3/telecom-platform"
+  },
+  {
+   "full_name": "guaidao2/crackweb",
+   "domains": [
+    "安全扫描"
+   ],
+   "depth": 0,
+   "stars": 5,
+   "lang": "Go",
+   "pushed_at": "2026-10-15T12:59:58Z",
+   "desc": "A traffic-driven web DAST scanner: browse through its proxy and it tests the requests it sees - passive analysis, replayed mutation and nuclei-compatible templates, out-of-band callbacks, HTML / JSON / SARIF reports. | 流",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:go.mod"
+   ],
+   "url": "https://github.com/guaidao2/crackweb"
+  },
+  {
+   "full_name": "VishalChudasama08/CarZen",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "Dart",
+   "pushed_at": "2026-10-16T01:30:44Z",
+   "desc": "CarZen is an intelligent automobile marketplace and vehicle management platform that connects car buyers, sellers, and resellers. The project is developed using Python, FastAPI, MySQL, Flutter,and Machine Learning to sim",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:requirements.txt"
+   ],
+   "url": "https://github.com/VishalChudasama08/CarZen"
+  },
+  {
+   "full_name": "appdotbuilder/reseller-affiliate-platform",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2025-08-07T11:38:04Z",
+   "desc": "Created by App.build",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/appdotbuilder/reseller-affiliate-platform"
+  },
+  {
+   "full_name": "appdotbuilder/reseller-affiliate-platform-d760",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2025-08-25T09:19:57Z",
+   "desc": "Created by App.build",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "有依赖清单:package.json",
+    "有根目录入口",
+    "可容器化"
+   ],
+   "url": "https://github.com/appdotbuilder/reseller-affiliate-platform-d760"
+  },
+  {
+   "full_name": "tobikihiko-cmyk/Referra",
+   "domains": [
+    "电话卡分销"
+   ],
+   "depth": 0,
+   "stars": 0,
+   "lang": "TypeScript",
+   "pushed_at": "2026-06-29T21:35:40Z",
+   "desc": "AI-powered Customer Acquisition Platform for referrals, affiliates, ambassadors, partners, resellers, and field sales.",
+   "grade": "B",
+   "score": 4.0,
+   "why": [
+    "近半年有提交",
+    "有依赖清单:package.json"
+   ],
+   "url": "https://github.com/tobikihiko-cmyk/Referra"
+  }
+ ]
+}
