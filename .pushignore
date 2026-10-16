@@ -1,0 +1,9 @@
+# 本机推送排除清单（ghpush.py 的 .pushignore）
+radar_seen.json
+radar_feed.jsonl
+radar_*.json
+radar_report.md
+__pycache__/
+*.pyc
+*.log
+*.db
