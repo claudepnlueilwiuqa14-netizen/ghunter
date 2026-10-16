@@ -1,0 +1,133 @@
+# 灵感雷达 · 2026-10-16 11:04:15
+
+- 巡检域 12 个，命中仓库 120，跨域交叉点 0，隐藏宝石 51
+- **本轮新发现 120 个**（已排除历史见过的）
+
+## 一、新发现（第一次见到）
+
+- **[A]** [Datalux/Osintgram](https://github.com/Datalux/Osintgram) ★15041 · Python
+  - 域：查人定位
+  - Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+- **[A]** [kyegomez/swarms](https://github.com/kyegomez/swarms) ★7261 · Python
+  - 域：多智能体
+  - The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai
+- **[A]** [DialmasterOrg/Youtarr](https://github.com/DialmasterOrg/Youtarr) ★1751 · JavaScript
+  - 域：全栈工程
+  - Self-hosted web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin
+- **[A]** [openai/swarm](https://github.com/openai/swarm) ★22057 · Python
+  - 域：多智能体
+  - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- **[A]** [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) ★12291 · JavaScript
+  - 域：查人定位
+  - OSINT Framework
+- **[A]** [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) ★4601 · Python
+  - 域：多智能体
+  - Reliable Multi-Agent Orchestration Framework
+- **[A]** [xtekky/TikTok-ViewBot](https://github.com/xtekky/TikTok-ViewBot) ★1925 · Python
+  - 域：热点短视频
+  - ViewBot using requests | Fast, no selenium | Custom Views count | Updated 2025
+- **[A]** [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove) ★884 · JavaScript
+  - 域：查人定位
+  - Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
+- **[A]** [swarmclawai/swarmclaw](https://github.com/swarmclawai/swarmclaw) ★689 · TypeScript
+  - 域：多智能体
+  - Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical
+- **[A]** [leancoderkavy/premiere-pro-mcp](https://github.com/leancoderkavy/premiere-pro-mcp) ★384 · TypeScript
+  - 域：媒体控制
+  - Adobe Premiere Pro MCP — independent, local-first server for supported workflows. Connect Claude, Codex, or Cursor through a local CEP bridge.
+- **[A]** [alephdata/aleph](https://github.com/alephdata/aleph) ★2447 · JavaScript
+  - 域：查人定位
+  - Search and browse documents and data; find the people and companies you look for.
+- **[B]** [sudoguy/tiktokpy](https://github.com/sudoguy/tiktokpy) ★877 · Python
+  - 域：热点短视频
+  - Tool for automated TikTok interactions
+- **[B]** [alisaitteke/photoshop-mcp](https://github.com/alisaitteke/photoshop-mcp) ★655 · TypeScript
+  - 域：媒体控制
+  - MCP for Adobe Photoshop. 118 tools. Control from Cursor, Claude or custom LLMs.
+- **[B]** [simonfarah/tiktok-bot](https://github.com/simonfarah/tiktok-bot) ★923 · Python
+  - 域：热点短视频
+  - 🦾 A bot that generates followers, likes, views, shares and comment likes
+- **[B]** [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) ★30260 · -
+  - 域：查人定位
+  - :scream: A curated list of amazingly awesome OSINT
+- **[B]** [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions) ★9552 · Swift
+  - 域：查人定位
+  - iOS interview questions;iOS面试题集锦（附答案） 
+- **[B]** [cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection) ★8949 · HTML
+  - 域：查人定位
+  - A collection of several hundred online tools for OSINT
+- **[B]** [k8gege/K8tools](https://github.com/k8gege/K8tools) ★6234 · PowerShell
+  - 域：渗透绕过
+  - K8工具合集(内网渗透/提权工具/远程溢出/漏洞利用/扫描工具/密码破解/免杀工具/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)
+- **[B]** [l-portet/tiktok-warmup-bot](https://github.com/l-portet/tiktok-warmup-bot) ★686 · JavaScript
+  - 域：热点短视频
+  - ♨️  Warming up TikTok accounts, one swipe at a time
+- **[B]** [TerminalWarlord/TikTok-Downloader-Bot](https://github.com/TerminalWarlord/TikTok-Downloader-Bot) ★463 · Python
+  - 域：热点短视频
+  -  A Telegram bot to download TikTok videos without any watermark.
+
+## 二、隐藏宝石（A/B 级但 star<300，好东西没人知道）
+
+- **[B]** [Wu-Yijun/ArtCraft](https://github.com/Wu-Yijun/ArtCraft) ★1 · TypeScript
+  - 域：媒体控制
+  - ArtCraft is a collection of open-source creative tools that run directly in your browser. It is a simple place to find free online alternatives to Photoshop, Illustrator, Lightroom, Premiere, After Effects, Figma, AutoCA
+- **[B]** [runegan/jsxbin](https://github.com/runegan/jsxbin) ★109 · JavaScript
+  - 域：媒体控制
+  - Convert jsx ExtendScript files into jsxbin files using ExtendScript Toolkit
+- **[B]** [MoebiusSt/indesign-scripting-mcp](https://github.com/MoebiusSt/indesign-scripting-mcp) ★2 · Python
+  - 域：媒体控制
+  - MCP servers for Adobe InDesign: DOM lookup + ExtendScript execution via COM/OLE (Windows).
+- **[B]** [gherardo200-glitch/illustrator-mcp](https://github.com/gherardo200-glitch/illustrator-mcp) ★7 · TypeScript
+  - 域：媒体控制
+  - Control a real, already-open Adobe Illustrator document with natural language via MCP, from Claude, ChatGPT, Cursor, or any client. Not an image generator: it edits actual layers, shapes and text through Illustrator's ow
+- **[B]** [shiuni/Flexio](https://github.com/shiuni/Flexio) ★0 · TypeScript
+  - 域：媒体控制
+  - A script launcher panel for After Effects, Premiere Pro, Photoshop and Illustrator
+- **[B]** [BOTCAHX/TikTokPy](https://github.com/BOTCAHX/TikTokPy) ★4 · JavaScript
+  - 域：热点短视频
+  - TikTok Downloader With Python
+- **[B]** [aetherzcode/TikTokPy](https://github.com/aetherzcode/TikTokPy) ★2 · JavaScript
+  - 域：热点短视频
+  - 
+- **[B]** [ranyaboss0-max/tiktok-bot](https://github.com/ranyaboss0-max/tiktok-bot) ★1 · Python
+  - 域：热点短视频
+  - 
+- **[B]** [loterialtr-star/eddy-videos](https://github.com/loterialtr-star/eddy-videos) ★0 · Python
+  - 域：热点短视频
+  - Robot autónomo en Python y GitHub Actions para la producción diaria de noticieros verticales (9:16) con IA, síntesis de voz, control de audio (-14 LUFS) y publicación programada para TikTok y YouTube.
+- **[B]** [tomovids/snug-tiktok-bot](https://github.com/tomovids/snug-tiktok-bot) ★0 · Python
+  - 域：热点短视频
+  - Snug TikTok slideshow bot
+- **[B]** [maicodavid3-beep/tiktok-repost-bot](https://github.com/maicodavid3-beep/tiktok-repost-bot) ★0 · Python
+  - 域：热点短视频
+  - 
+- **[B]** [MelDxKviel/reels-downloader-bot](https://github.com/MelDxKviel/reels-downloader-bot) ★7 · Python
+  - 域：热点短视频
+  - Telegram bot for downloading videos from YouTube, Instagram Reels, TikTok, and X (Twitter)
+- **[B]** [AhammedNujoomYp/smart-llm-gateway](https://github.com/AhammedNujoomYp/smart-llm-gateway) ★2 · Python
+  - 域：免费大模型
+  - A framework-free LLM gateway with context pruning, caching, and model routing  built on free-tier APIs
+- **[B]** [huermi/dsh-deepseek-web-adapter](https://github.com/huermi/dsh-deepseek-web-adapter) ★15 · JavaScript
+  - 域：免费大模型
+  - 免费的 DeepSeek 网页版（chat.deepseek.com）LLM 服务提供方，用于 DeepSeek Harness——无需 API 密钥。自动启动网关，支持工具调用和连续对话。Free DeepSeek Web (chat.deepseek.com) LLM provider for DeepSeek Harness — no API key. Auto-launches gateway, tool calling, co
+- **[B]** [developingchet/zengate](https://github.com/developingchet/zengate) ★7 · JavaScript
+  - 域：免费大模型
+  - Keyless OpenAI-compatible API gateway for OpenCode Zen free models: Chat Completions, Responses, tool calling, vision, key auth by default
+- **[B]** [div197/BOB-Gemini-Free](https://github.com/div197/BOB-Gemini-Free) ★3 · Go
+  - 域：免费大模型
+  - High-performance local 3-in-1 gateway unlocking Google Gemini as standard OpenAI, Anthropic (Claude Code), and Gemini API endpoints for coding agents, IDEs, and tools.
+- **[B]** [centralvii/deepseek-free-api](https://github.com/centralvii/deepseek-free-api) ★0 · Python
+  - 域：免费大模型
+  - Multi-Provider Free LLM Gateway (DeepSeek, Qwen) with OpenAI, Anthropic, Tool-Use & CLI Support
+- **[B]** [aqiu817/dsh-llm-kilo-gateway](https://github.com/aqiu817/dsh-llm-kilo-gateway) ★0 · JavaScript
+  - 域：免费大模型
+  - Kilo Gateway free-model provider for DeepSeek Harness: auto-discovers the free model catalog, exposes tools/reasoning/image capabilities, and adds a settings page for your own API key, the change log and token stats.
+- **[B]** [llm-net/llm-gate](https://github.com/llm-net/llm-gate) ★1 · Go
+  - 域：免费大模型
+  - Self-hosted model API and developer-tool subscription gateway. Free to use; MIT firmware source. 模型 API 与开发工具订阅网关。
+- **[B]** [LessieAI/people-search-bench](https://github.com/LessieAI/people-search-bench) ★146 · Python
+  - 域：查人定位
+  - The first open benchmark for evaluating AI-powered people search agents
+
+## 三、跨域交叉点（一个项目同时踩中多个域，最可能有意外用法）
+
