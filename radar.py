@@ -31,7 +31,10 @@ FEED = os.path.join(HERE, "radar_feed.jsonl")
 BUS = r"C:/Users/qq/SharedKB/_bus"
 
 # 用户的真实目标 → 种子域（这些是"用户已经知道的"）
+# ⚠️ intent 保持 3-5 个短词：GitHub repo 搜索是 AND 语义，长句必 0 结果；
+#    expand_intent() 会再炸成变体，这里只给种子。
 SEED_DOMAINS = [
+    # —— 原有 12 域（用户明确提出过的方向）——
     ("媒体控制", "photoshop premiere after effects davinci resolve scripting api automation"),
     ("审美设计", "frontend design system aesthetic ui guidelines color palette tokens"),
     ("热点短视频", "douyin tiktok kuaishou weibo zhihu hot search trending crawler"),
@@ -44,6 +47,32 @@ SEED_DOMAINS = [
     ("漫剧视频", "motion comic ai story short video automatic generation"),
     ("全栈工程", "self hosted web app full stack deployment database"),
     ("自动化运维", "automation scheduler windows linux background daemon task"),
+    # —— 2026-10-16 扩域 25 个（8 大方向全覆盖 + 工具层 + 邻域）——
+    ("逆向工程", "reverse engineering binary decompile disassembler analysis"),
+    ("游戏安全", "game hack memory esp aimbot anti cheat"),
+    ("爬虫框架", "web scraper playwright undetected browser stealth"),
+    ("爬虫对抗", "anti bot captcha solver fingerprint evasion"),
+    ("数据可视化", "data visualization dashboard chart d3 analytics"),
+    ("机器学习", "machine learning pytorch fine tune training"),
+    ("本地大模型", "local llm inference ollama vllm quantization gguf"),
+    ("数据库内核", "database engine sqlite postgres internals orm"),
+    ("网络协议", "network protocol packet analysis proxy tunnel"),
+    ("编译原理", "compiler interpreter llvm bytecode vm assembler"),
+    ("容器云原生", "kubernetes docker container devops helm"),
+    ("安全扫描", "security scanner nuclei vulnerability recon"),
+    ("区块链Web3", "blockchain smart contract solidity web3 defi"),
+    ("移动开发", "android ios react native flutter cross platform"),
+    ("浏览器扩展", "browser extension chrome firefox addon manifest"),
+    ("桌面应用", "desktop app electron tauri rust gui"),
+    ("游戏开发", "game engine unity godot indie 2d 3d"),
+    ("嵌入式IoT", "embedded iot firmware stm32 esp32 rtos"),
+    ("音视频处理", "audio video ffmpeg transcoding streaming"),
+    ("文档处理", "document pdf ocr parsing converter extract"),
+    ("邮件营销", "email marketing smtp deliverability campaign automation"),
+    ("支付集成", "payment gateway stripe integration billing"),
+    ("建站部署", "static site generator deploy cdn hosting"),
+    ("监控告警", "monitoring alerting observability metrics tracing"),
+    ("知识管理", "knowledge base obsidian note taking second brain"),
 ]
 
 
