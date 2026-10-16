@@ -6,12 +6,16 @@
 - `ghunter.py` —— **意图 → 全量检索**：一句大白话炸成 10–26 条查询，三通道搜索，A/B/C 可用性分级
 - `radar.py` —— **持续灵感雷达**：兴趣图 BFS 走到用户没提过的邻域，只报新发现，捞出「隐藏宝石」
 
-## 为什么以前的搜索「搜不全」（四个真根因）
+## 为什么以前的搜索「搜不全」（五个真根因）
 
 1. **单条 query 只覆盖一种说法** → `ghunter.py` 对同一意图自动扇出变体（中英/黑话/近义，内置 30+ 组同义词表）
 2. **整句长查询返回 0 条** → GitHub repo 搜索是 **AND 语义**！`photoshop premiere after effects davinci resolve scripting api automation` 这种长句必然 0 结果。**必须先炸成短查询。**
-3. **只看 star 排序** → 同时跑 `""` / `stars` / `updated` 三种排序，再按活跃度重排
-4. **不验证可用性** → 抓 README + 文件树，判「近半年有提交/有依赖清单/有入口/README 有装跑命令」，输出 A/B/C 分级。**只采信 A/B 级。**
+3. **只炸长变体不炸子集** → 2026-10-16 实测：`esim reseller affiliate platform`（4 词全 AND）返回 0，
+   而 `esim reseller`（2 词）返回 5 条。**根治手段：`expand_intent()` 对 ≥3 词的 intent
+   自动生成全部 2 词/3 词子集查询**（`itertools.combinations`）。修完后四个 0 命中域
+   （电话卡分销/渗透绕过/爬虫框架/安全扫描）变成 34/26/18/34 命中。
+4. **只看 star 排序** → 同时跑 `""` / `stars` / `updated` 三种排序，再按活跃度重排
+5. **不验证可用性** → 抓 README + 文件树，判「近半年有提交/有依赖清单/有入口/README 有装跑命令」，输出 A/B/C 分级。**只采信 A/B 级。**
 
 ## 用法
 
@@ -37,15 +41,27 @@ token 自动从 `TOKEN_CANDIDATES`（含 `gh_token` 环境变量与常见路径�
 - **新发现差分**：与 `radar_seen.json` 对比，只报第一次见到的
 - **跨域交叉点**：一个仓库同时出现在多个域 = 稀有交叉点，排最前
 
-## 首轮实战成果（此前全部漏掉）
+## 实战成果（两轮真实输出）
 
-| 仓库 | star | 捞到了什么 |
-|---|---|---|
-| `alisaitteke/photoshop-mcp` | 655 | **118 个工具**控制 Photoshop（此前只知道 ExtendScript） |
-| `leancoderkavy/premiere-pro-mcp` | 384 | PR 的 MCP 控制通道 |
-| `DialmasterOrg/Youtarr` | 1751 | YouTube 自动归档（"下载视频"需求的现成答案） |
-| `swarmcllaw/swarmcllaw` | 689 | 多智能体总线 |
-| `jivoi/awesome-osint` | 30260 | 查人工具总索引 |
+**第一轮（12 域）**：`alisaitteke/photoshop-mcp` ★655（118 个 PS 工具）、
+`leancoderkavy/premiere-pro-mcp` ★384、`DialmasterOrg/Youtarr` ★1751、
+`swarmcllaw/swarmcllaw` ★689、`jivoi/awesome-osint` ★30260
+
+**第二轮（37 域全量，2026-10-16 13:10）**：命中 120 / 新发现 80 / 隐藏宝石 43：
+
+| 仓库 | ★ | 域 | 价值 |
+|---|---|---|---|
+| `jwadow/kiro-gateway` | 2324 | 免费大模型 | 免费 LLM 网关（A 级） |
+| `stephenlthorn/auto-identity-remove` | 884 | 查人定位 | 身份信息清除（A 级） |
+| `TikHub/TikHub-API-Python-SDK` | 919 | 热点短视频 | 抖音/TikTok 官方数据 SDK |
+| `mfoud444/ollamafreeapi` | 323 | 免费大模型 | 免费 Ollama API 聚合 |
+| `The-Osint-Toolbox/People-Search-OSINT` | 171 | 查人定位 | 查人工具箱 |
+| `Dujltqzv/Some-Many-Books` | 24793 | 媒体控制 | 电子书库 |
+
+修复后单测 4 域（子集爆破）：命中 111 / 新发现 99 / 隐藏宝石 50 / 交叉点 1。
+
+> ⚠️ 报告 JSON 的 `hidden_list` / `new_list` 是**全量**；`top` / `new_top` 只是按 `--top` 截断的展示视图。
+> （早先 JSON 只存截断视图，出现「计数 43 但一个都取不到」的 bug，已修。）
 
 ## 种子域（37 个）
 
