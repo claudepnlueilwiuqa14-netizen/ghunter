@@ -41,16 +41,18 @@ SEED_DOMAINS = [
     ("免费大模型", "free llm api gateway proxy unlimited token relay router"),
     ("查人定位", "osint people lookup username enumeration phone email identity"),
     ("外贸", "cross border ecommerce shopify amazon aliexpress dropshipping scraper"),
-    ("电话卡分销", "esim sim card reseller affiliate referral platform white label"),
-    ("渗透绕过", "pentest bypass payload poc exploitation anti bot"),
+    ("电话卡分销", "esim reseller affiliate platform"),
+    ("渗透绕过", "pentest payload exploit poc"),
     ("多智能体", "multi agent orchestration swarm bus collaboration"),
     ("漫剧视频", "motion comic ai story short video automatic generation"),
     ("全栈工程", "self hosted web app full stack deployment database"),
     ("自动化运维", "automation scheduler windows linux background daemon task"),
     # —— 2026-10-16 扩域 25 个（8 大方向全覆盖 + 工具层 + 邻域）——
+    # ⚠️ 2026-10-16 实测修正：intent 超过 4 个实词 + maxv 小时，AND 语义下必然 0 命中。
+    #    电话卡分销/渗透绕过/爬虫框架/安全扫描 四个域首轮全 0，已缩到 3 词。
     ("逆向工程", "reverse engineering binary decompile disassembler analysis"),
     ("游戏安全", "game hack memory esp aimbot anti cheat"),
-    ("爬虫框架", "web scraper playwright undetected browser stealth"),
+    ("爬虫框架", "web scraper playwright stealth"),
     ("爬虫对抗", "anti bot captcha solver fingerprint evasion"),
     ("数据可视化", "data visualization dashboard chart d3 analytics"),
     ("机器学习", "machine learning pytorch fine tune training"),
@@ -59,7 +61,7 @@ SEED_DOMAINS = [
     ("网络协议", "network protocol packet analysis proxy tunnel"),
     ("编译原理", "compiler interpreter llvm bytecode vm assembler"),
     ("容器云原生", "kubernetes docker container devops helm"),
-    ("安全扫描", "security scanner nuclei vulnerability recon"),
+    ("安全扫描", "nuclei scanner vulnerability recon"),
     ("区块链Web3", "blockchain smart contract solidity web3 defi"),
     ("移动开发", "android ios react native flutter cross platform"),
     ("浏览器扩展", "browser extension chrome firefox addon manifest"),
@@ -215,9 +217,13 @@ def run_once(top=25, depth=1, maxv=6, per=6, domains=None):
     save_seen(seen)
 
     ts = time.strftime("%Y-%m-%d %H:%M:%S")
+    # ⚠️ top/new_top 只是展示视图（按 top 截断）；hidden_list/new_list 存全量——
+    # 早先 JSON 只存截断视图，导致报告写"隐藏宝石 43"但 JSON 里一个都取不到。
     rep = {"ts": ts, "domains": {d: len(v) for d, v in all_results.items()},
            "cross_bridges": len(bridges), "total": len(out), "new": len(new),
-           "hidden_gems": len(hidden), "top": out[:top], "new_top": new[:top]}
+           "hidden_gems": len(hidden),
+           "top": out[:top], "new_top": new[:top],
+           "hidden_list": hidden, "new_list": new}
     jp = os.path.join(HERE, "radar_%s.json" % ts.replace(":", "").replace("-", "").replace(" ", "_"))
     json.dump(rep, open(jp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
