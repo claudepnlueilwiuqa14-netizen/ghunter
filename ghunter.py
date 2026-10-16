@@ -15,7 +15,7 @@ ghunter - GitHub 全量猎取引擎  (2026-10-16 重写版)
   python ghunter.py --topic "davinci resolve api" --deep
   python ghunter.py --recon            # 跑内置全域侦察（媒体/热榜/LLM/OSINT/外贸/电话卡/红队/审美）
 """
-import argparse, json, os, sys, time, hashlib, re, urllib.request, urllib.parse, urllib.error
+import argparse, json, os, sys, time, hashlib, re, itertools, urllib.request, urllib.parse, urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -151,6 +151,16 @@ def expand_intent(intent, maxv=26):
         buckets.add(t.format(core))
     for e in ["awesome-{}".format(core), "{} alternatives".format(core), "self-hosted {}".format(core)]:
         buckets.add(e)
+    # ⚠️ AND 语义的根治手段：长 intent 必须配 2/3 词子集查询。
+    # 实测「esim reseller affiliate platform」4 词全 AND 返回 0，
+    # 而「esim reseller」2 词返回 5 条 —— 不炸子集就等于主动丢结果。
+    words = [w for w in re.split(r"\s+", intent.strip()) if len(w) >= 2]
+    if len(words) >= 3:
+        for c in itertools.combinations(words, 2):
+            buckets.add(" ".join(c))
+        if len(words) >= 4:
+            for c in itertools.combinations(words, 3):
+                buckets.add(" ".join(c))
     out = []
     seen = set()
     for b in buckets:
