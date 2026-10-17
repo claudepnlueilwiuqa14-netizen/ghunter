@@ -1,0 +1,1161 @@
+{
+ "intent": "douyin tiktok download",
+ "queries": [
+  "douyin tiktok download",
+  "douyin tiktok download tool",
+  "douyin tiktok download automation",
+  "douyin tiktok download api",
+  "awesome-douyin tiktok download",
+  "tiktok download",
+  "TikTokPy",
+  "douyin tiktok"
+ ],
+ "total": 143,
+ "sec": 181.5,
+ "repos": [
+  {
+   "full_name": "Evil0ctal/Douyin_TikTok_Download_API",
+   "stars": 20712,
+   "desc": "🚀 抖音、TikTok 数据采集与无水印视频下载 API，自托管，支持 MCP 调用与 Docker 一键部署。| Self-hosted TikTok & Douyin scraper and no-watermark video dow",
+   "url": "https://api.github.com/repos/Evil0ctal/Douyin_TikTok_Download_API",
+   "hits": 16,
+   "score": 168.0
+  },
+  {
+   "full_name": "Johnserf-Seed/TikTokDownload",
+   "stars": 8877,
+   "desc": "抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频",
+   "url": "https://api.github.com/repos/Johnserf-Seed/TikTokDownload",
+   "hits": 10,
+   "score": 104.66
+  },
+  {
+   "full_name": "JoeanAmier/TikTokDownloader",
+   "stars": 16920,
+   "desc": "抖音 / TikTok 平台作品下载/数据采集工具",
+   "url": "https://api.github.com/repos/JoeanAmier/TikTokDownloader",
+   "hits": 9,
+   "score": 97.08
+  },
+  {
+   "full_name": "alexnamkim/marketing-tool",
+   "stars": 3,
+   "desc": "\"All-in-one automation tool to download videos from TikTok, YouTube, Douyin & more, auto-edit them into fresh content, a",
+   "url": "https://api.github.com/repos/alexnamkim/marketing-tool",
+   "hits": 7,
+   "score": 72.0
+  },
+  {
+   "full_name": "TikHub/TikHub-Multi-Functional-Downloader",
+   "stars": 185,
+   "desc": "Cross-platform GUI tool for downloading watermark-free videos from TikTok, Douyin and more. Supports batch downloads and",
+   "url": "https://api.github.com/repos/TikHub/TikHub-Multi-Functional-Downloader",
+   "hits": 6,
+   "score": 62.06
+  },
+  {
+   "full_name": "milancodess/universalDownloader",
+   "stars": 138,
+   "desc": "API for downloading videos and media from popular platforms like Douyin, Instagram, Facebook, Pinterest, Reddit, Threads",
+   "url": "https://github.com/milancodess/universalDownloader",
+   "hits": 6,
+   "score": 62.04
+  },
+  {
+   "full_name": "1kuzus/iiiLabCrawler",
+   "stars": 29,
+   "desc": "Download resources from TikTok/Douyin, YouTube, Bilibili, Facebook, Instagram, and X/Twitter - A web crawler for the vid",
+   "url": "https://github.com/1kuzus/iiiLabCrawler",
+   "hits": 6,
+   "score": 62.01
+  },
+  {
+   "full_name": "jiji262/douyin-downloader",
+   "stars": 12322,
+   "desc": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite d",
+   "url": "https://github.com/jiji262/douyin-downloader",
+   "hits": 5,
+   "score": 55.7
+  },
+  {
+   "full_name": "CharlesPikachu/videodl",
+   "stars": 3082,
+   "desc": "Videodl: A lightweight video downloader written in pure python. (轻量级视频下载器，优先高清无水印，支持抖音，快手，小红书，B站，TikTok，YouTube，FIFA+，优酷",
+   "url": "https://github.com/CharlesPikachu/videodl",
+   "hits": 5,
+   "score": 52.92
+  },
+  {
+   "full_name": "loadchange/amemv-crawler",
+   "stars": 2660,
+   "desc": "🙌Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫",
+   "url": "https://api.github.com/repos/loadchange/amemv-crawler",
+   "hits": 5,
+   "score": 52.8
+  },
+  {
+   "full_name": "Evil0ctal/douyin.wtf",
+   "stars": 0,
+   "desc": "📘 Landing page and bilingual (EN/中文) documentation site for Douyin_TikTok_Download_API — Astro + Starlight, docs synced ",
+   "url": "https://api.github.com/repos/Evil0ctal/douyin.wtf",
+   "hits": 5,
+   "score": 52.0
+  },
+  {
+   "full_name": "ddvn71/hongguo-video-downloader-pro",
+   "stars": 3,
+   "desc": "Hongguo Short Drama (红果免费短剧 / Fanqie) & Douyin/TikTok Video Downloader with Multi-Provider API Rotation & WebCrypto CENC",
+   "url": "https://api.github.com/repos/ddvn71/hongguo-video-downloader-pro",
+   "hits": 5,
+   "score": 52.0
+  },
+  {
+   "full_name": "shineyear/douyin-tiktok-downloader",
+   "stars": 1,
+   "desc": "Web tool that saves Douyin / TikTok videos straight to your iPhone Camera Roll via the native Share Sheet. No app, no si",
+   "url": "https://github.com/shineyear/douyin-tiktok-downloader",
+   "hits": 5,
+   "score": 52.0
+  },
+  {
+   "full_name": "shuhaolin63-hash/short_video_analysis_tool-skills",
+   "stars": 8,
+   "desc": "短视频数据采集与分析工具skills：一键抓取元数据+评论、NLP话题聚类、多维度Excel导出、封面下载、词云生成。基于Douyin_TikTok_Download_API，支持抖音/TikTok/B站。",
+   "url": "https://api.github.com/repos/shuhaolin63-hash/short_video_analysis_tool-skills",
+   "hits": 5,
+   "score": 52.0
+  },
+  {
+   "full_name": "ihmily/DouyinLiveRecorder",
+   "stars": 11054,
+   "desc": "可循环值守和多人录制的直播录制软件，支持抖音、TikTok、Youtube、快手、虎牙、斗鱼、B站、小红书、pandatv、sooplive、flextv、popkontv、twitcasting、winktv、百度、微博、酷狗、17Liv",
+   "url": "https://github.com/ihmily/DouyinLiveRecorder",
+   "hits": 4,
+   "score": 45.32
+  },
+  {
+   "full_name": "MobileFirstLLC/social-media-hacker-list",
+   "stars": 2366,
+   "desc": "Growing list of apps and tools for enhancing social media experiences.",
+   "url": "https://github.com/MobileFirstLLC/social-media-hacker-list",
+   "hits": 4,
+   "score": 42.71
+  },
+  {
+   "full_name": "sudoguy/tiktokpy",
+   "stars": 876,
+   "desc": "Tool for automated TikTok interactions",
+   "url": "https://api.github.com/repos/sudoguy/tiktokpy",
+   "hits": 4,
+   "score": 42.26
+  },
+  {
+   "full_name": "lzdyes/douyin-downloader",
+   "stars": 326,
+   "desc": "A cross-platform download douyin video tool built with tauri",
+   "url": "https://api.github.com/repos/lzdyes/douyin-downloader",
+   "hits": 4,
+   "score": 42.1
+  },
+  {
+   "full_name": "Russell-Newton/TikTokPy",
+   "stars": 237,
+   "desc": "Extract data from TikTok without needing any login information or API keys.",
+   "url": "https://api.github.com/repos/Russell-Newton/TikTokPy",
+   "hits": 4,
+   "score": 42.07
+  },
+  {
+   "full_name": "YPYT1/Douyin_TikTok_Download_API",
+   "stars": 8,
+   "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+   "url": "https://github.com/YPYT1/Douyin_TikTok_Download_API",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "nthanhdev/BemmTikTok",
+   "stars": 13,
+   "desc": "Full code cùi tool BemmTikTok .exe c# (reg tiktok, get cookie, download video tiktok douyin, ...)",
+   "url": "https://github.com/nthanhdev/BemmTikTok",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "wanjia9527/douyin_downloader",
+   "stars": 1,
+   "desc": "A high-performance Douyin/TikTok downloader with automated scraping capabilities.",
+   "url": "https://api.github.com/repos/wanjia9527/douyin_downloader",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "luxinzhang28-creator/Douyin-collect-downloader",
+   "stars": 1,
+   "desc": "Turn your Douyin collections into a searchable local knowledge repository.",
+   "url": "https://api.github.com/repos/luxinzhang28-creator/Douyin-collect-downloader",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "spider-autox/autox-release",
+   "stars": 3,
+   "desc": "A powerful automation toolkit for video content creators, marketers, and media teams. Download videos from platforms lik",
+   "url": "https://api.github.com/repos/spider-autox/autox-release",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "dudachun/video-downloader",
+   "stars": 0,
+   "desc": "A Codex skill for downloading web videos locally with yt-dlp, including Douyin modal_id URL support.",
+   "url": "https://api.github.com/repos/dudachun/video-downloader",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "BOTCAHX/TikTokPy",
+   "stars": 4,
+   "desc": "TikTok Downloader With Python",
+   "url": "https://api.github.com/repos/BOTCAHX/TikTokPy",
+   "hits": 4,
+   "score": 42.0
+  },
+  {
+   "full_name": "aetherzcode/TikTokPy",
+   "stars": 2,
+   "desc": "",
+   "url": "https://api.github.com/repos/aetherzcode/TikTokPy",
+   "hits": 4,
+   "score": 40.0
+  },
+  {
+   "full_name": "rrmm02/tiktokpygit11",
+   "stars": 0,
+   "desc": "",
+   "url": "https://api.github.com/repos/rrmm02/tiktokpygit11",
+   "hits": 4,
+   "score": 40.0
+  },
+  {
+   "full_name": "danatsi/tiktokpy",
+   "stars": 0,
+   "desc": "",
+   "url": "https://api.github.com/repos/danatsi/tiktokpy",
+   "hits": 4,
+   "score": 40.0
+  },
+  {
+   "full_name": "zyronon/douyin",
+   "stars": 11547,
+   "desc": " Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile",
+   "url": "https://api.github.com/repos/zyronon/douyin",
+   "hits": 3,
+   "score": 35.46
+  },
+  {
+   "full_name": "drawrowfly/tiktok-scraper",
+   "stars": 5219,
+   "desc": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+   "url": "https://api.github.com/repos/drawrowfly/tiktok-scraper",
+   "hits": 3,
+   "score": 33.57
+  },
+  {
+   "full_name": "xgetter-team/xgetter",
+   "stars": 309,
+   "desc": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin, Youku, QQ, VK, Ok,...",
+   "url": "https://api.github.com/repos/xgetter-team/xgetter",
+   "hits": 3,
+   "score": 32.09
+  },
+  {
+   "full_name": "sudoguy/tiktok_bot",
+   "stars": 134,
+   "desc": "New tiktok bot on https://github.com/sudoguy/tiktokpy",
+   "url": "https://api.github.com/repos/sudoguy/tiktok_bot",
+   "hits": 3,
+   "score": 32.04
+  },
+  {
+   "full_name": "creatorMao/TikTokDownloadTool",
+   "stars": 56,
+   "desc": "tiktok批量/增量下载工具",
+   "url": "https://api.github.com/repos/creatorMao/TikTokDownloadTool",
+   "hits": 3,
+   "score": 32.02
+  },
+  {
+   "full_name": "gordienko-dmitry/TikTokPy",
+   "stars": 26,
+   "desc": "python TikTok client",
+   "url": "https://api.github.com/repos/gordienko-dmitry/TikTokPy",
+   "hits": 3,
+   "score": 32.01
+  },
+  {
+   "full_name": "demon071/tool-allinone",
+   "stars": 0,
+   "desc": "Tool Download Video TikTok, Douyin, Kuaishou, Instagram, Facebook",
+   "url": "https://api.github.com/repos/demon071/tool-allinone",
+   "hits": 3,
+   "score": 32.0
+  },
+  {
+   "full_name": "KudcraftsHQ/TiktokDownloaderAPI",
+   "stars": 0,
+   "desc": "TikTok Downloader API - A comprehensive data collection and file download tool for TikTok and DouYin platforms",
+   "url": "https://api.github.com/repos/KudcraftsHQ/TiktokDownloaderAPI",
+   "hits": 3,
+   "score": 32.0
+  },
+  {
+   "full_name": "404places/AllVideo",
+   "stars": 4,
+   "desc": "AllVideo」是一个在线使用的高性能视频下载工具，支持包括抖音、tiktok、youtube，twitter、bilibili在内的14个平台的视频下载。「AllVideo」 is an online high-performance ",
+   "url": "https://api.github.com/repos/404places/AllVideo",
+   "hits": 3,
+   "score": 32.0
+  },
+  {
+   "full_name": "dreammis/social-auto-upload",
+   "stars": 15557,
+   "desc": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+   "url": "https://api.github.com/repos/dreammis/social-auto-upload",
+   "hits": 2,
+   "score": 26.67
+  },
+  {
+   "full_name": "zhouxiaoka/autoclip",
+   "stars": 9470,
+   "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source A",
+   "url": "https://api.github.com/repos/zhouxiaoka/autoclip",
+   "hits": 2,
+   "score": 24.84
+  },
+  {
+   "full_name": "ihmily/StreamCap",
+   "stars": 4302,
+   "desc": "Multi-Platform Live Stream Automatic Recording Tool | 多平台直播流自动录制客户端 · 基于FFmpeg · 支持监控/定时/转码",
+   "url": "https://github.com/ihmily/StreamCap",
+   "hits": 2,
+   "score": 23.29
+  },
+  {
+   "full_name": "cporter202/social-media-scraping-apis",
+   "stars": 2623,
+   "desc": "A curated collection of social media scraping APIs and tools for Instagram, LinkedIn, Twitter/X, TikTok, YouTube, Facebo",
+   "url": "https://github.com/cporter202/social-media-scraping-apis",
+   "hits": 2,
+   "score": 22.79
+  },
+  {
+   "full_name": "synctv-org/synctv",
+   "stars": 2517,
+   "desc": "Synchronized viewing, theater, live streaming, video",
+   "url": "https://github.com/synctv-org/synctv",
+   "hits": 2,
+   "score": 22.76
+  },
+  {
+   "full_name": "DangJin/awesome-social-media-downloader",
+   "stars": 1866,
+   "desc": "👿 收录了一些能够免费下载油管、B 站、抖音等平台视频的下载工具。Some download tools that can freely download videos from platforms such as YouTube, Bil",
+   "url": "https://github.com/DangJin/awesome-social-media-downloader",
+   "hits": 2,
+   "score": 22.56
+  },
+  {
+   "full_name": "arnoldhao/xiadown",
+   "stars": 735,
+   "desc": "🐣一款支持视频下载的资源库管理应用    A media library manager with video download support",
+   "url": "https://api.github.com/repos/arnoldhao/xiadown",
+   "hits": 2,
+   "score": 22.22
+  },
+  {
+   "full_name": "NearHuiwen/TiktokDouyinCrawler",
+   "stars": 508,
+   "desc": "国外Tiktok+国内抖音爬虫，a-bogus和x-bogus算法破解",
+   "url": "https://api.github.com/repos/NearHuiwen/TiktokDouyinCrawler",
+   "hits": 2,
+   "score": 22.15
+  },
+  {
+   "full_name": "TerminalWarlord/TikTok-Downloader-Bot",
+   "stars": 462,
+   "desc": " A Telegram bot to download TikTok videos without any watermark.",
+   "url": "https://api.github.com/repos/TerminalWarlord/TikTok-Downloader-Bot",
+   "hits": 2,
+   "score": 22.14
+  },
+  {
+   "full_name": "n0l3r/tiktok-downloader",
+   "stars": 393,
+   "desc": "tiktok downloader is a tool to download video from tiktok with watermark or without watermark. There are two features th",
+   "url": "https://api.github.com/repos/n0l3r/tiktok-downloader",
+   "hits": 2,
+   "score": 22.12
+  },
+  {
+   "full_name": "TufayelLUS/TikTok-Video-Downloader-PHP",
+   "stars": 343,
+   "desc": "A simple but effective one page TikTok video downloader(watermark free) script developed by Tufayel",
+   "url": "https://api.github.com/repos/TufayelLUS/TikTok-Video-Downloader-PHP",
+   "hits": 2,
+   "score": 22.1
+  },
+  {
+   "full_name": "krypton-byte/tiktok-downloader",
+   "stars": 337,
+   "desc": "Tiktok Downloader/Scraper using requests & bs4",
+   "url": "https://api.github.com/repos/krypton-byte/tiktok-downloader",
+   "hits": 2,
+   "score": 22.1
+  },
+  {
+   "full_name": "hostinger-bot/btch-downloader",
+   "stars": 86,
+   "desc": "A lightweight TypeScript/JavaScript client SDK for downloading videos, images, and audio from Instagram, TikTok, YouTube",
+   "url": "https://api.github.com/repos/hostinger-bot/btch-downloader",
+   "hits": 2,
+   "score": 22.03
+  },
+  {
+   "full_name": "kazamaofficial-git/KazamaDownloader",
+   "stars": 0,
+   "desc": "DownloadIn — Downpoad video, MP3, foto slide & Live Photo dari TikTok, Douyin, IG, YouTube, Bilibili, pixiv & 1.700+ sit",
+   "url": "https://api.github.com/repos/kazamaofficial-git/KazamaDownloader",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "Inceptionlrz/media-batch-downloader",
+   "stars": 0,
+   "desc": "Batch download TikTok / Douyin media by link - original quality, no watermark. CLI + Web UI.",
+   "url": "https://api.github.com/repos/Inceptionlrz/media-batch-downloader",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "jiebaosystem/vidgrab",
+   "stars": 0,
+   "desc": "Resolve and download TikTok / YouTube / Douyin / X videos for AI agents (Apify, Python stdlib, one JSON line, 7-day auto",
+   "url": "https://api.github.com/repos/jiebaosystem/vidgrab",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "lifei6671/video-downloader",
+   "stars": 0,
+   "desc": "抖音和Tiktok视频下载",
+   "url": "https://api.github.com/repos/lifei6671/video-downloader",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "titinguyen999/douyin-pro-toolkit",
+   "stars": 0,
+   "desc": "Chrome extension (MV3) to scan Douyin profiles, parse no-watermark videos via API and batch-download as ZIP. EN/VI, no b",
+   "url": "https://api.github.com/repos/titinguyen999/douyin-pro-toolkit",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "heino-labs/douyin-cli",
+   "stars": 0,
+   "desc": "A powerful CLI tool to download videos and images from Douyin (TikTok China) with metadata extraction, automatic concurr",
+   "url": "https://api.github.com/repos/heino-labs/douyin-cli",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "TikHub/tikhub-plugin",
+   "stars": 8,
+   "desc": "Claude Code plugin & skills for TikHub — download media and fetch posts, profiles, comments, search, trends & analytics ",
+   "url": "https://api.github.com/repos/TikHub/tikhub-plugin",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "Devincool/shortvideos-collector",
+   "stars": 4,
+   "desc": "抖音博主视频采集全流水线：CDP 采集作品列表 → 无水印下载 → whisper 批量转写 → 时间线语料合成。无需付费 API。 | End-to-end Douyin creator video pipeline: CDP works",
+   "url": "https://api.github.com/repos/Devincool/shortvideos-collector",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "15143221112/douyin-distiller",
+   "stars": 0,
+   "desc": "Douyin (TikTok China) video downloader + ASR transcription + Feishu Bitable pipeline — one-click bulk crawl a creator's ",
+   "url": "https://api.github.com/repos/15143221112/douyin-distiller",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "42419/douyin-monitor",
+   "stars": 1,
+   "desc": "抖音账号视频监控 —— 基于 Douyin_TikTok_Download_API v5，默认只读，支持钉钉/企业微信/Bark/Server酱/Telegram 推送",
+   "url": "https://api.github.com/repos/42419/douyin-monitor",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "yangxijia111/douyin-bili-downloader",
+   "stars": 0,
+   "desc": "Multi-platform batch downloader for Douyin, Bilibili, WeChat Channels and yt-dlp-powered sites (iQIYI, Tencent Video, Yo",
+   "url": "https://api.github.com/repos/yangxijia111/douyin-bili-downloader",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "xujing888/douyin-monitor",
+   "stars": 0,
+   "desc": "抖音作者监控与作品归档系统（数据采集基于 Evil0ctal/Douyin_TikTok_Download_API）",
+   "url": "https://api.github.com/repos/xujing888/douyin-monitor",
+   "hits": 2,
+   "score": 22.0
+  },
+  {
+   "full_name": "msitarzewski/agency-agents",
+   "stars": 160662,
+   "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to rea",
+   "url": "https://github.com/msitarzewski/agency-agents",
+   "hits": 1,
+   "score": 18.0
+  },
+  {
+   "full_name": "scikit-learn/scikit-learn",
+   "stars": 67712,
+   "desc": "scikit-learn: machine learning in Python",
+   "url": "https://github.com/scikit-learn/scikit-learn",
+   "hits": 1,
+   "score": 18.0
+  },
+  {
+   "full_name": "MODSetter/SurfSense",
+   "stars": 16472,
+   "desc": "Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your do",
+   "url": "https://github.com/MODSetter/SurfSense",
+   "hits": 1,
+   "score": 16.94
+  },
+  {
+   "full_name": "xiaoyaocz/dart_simple_live",
+   "stars": 16144,
+   "desc": "简简单单的看直播",
+   "url": "https://github.com/xiaoyaocz/dart_simple_live",
+   "hits": 1,
+   "score": 16.84
+  },
+  {
+   "full_name": "Semporia/TikTok-Unlock",
+   "stars": 12177,
+   "desc": "TikTok 無需拔卡解鎖最新支援  iPhone &iPad 、TikTok&TikTok TestFlight，地區切換 、視頻發佈 、 live 直播 、點贊 評論、私信聊天等！",
+   "url": "https://github.com/Semporia/TikTok-Unlock",
+   "hits": 1,
+   "score": 15.65
+  },
+  {
+   "full_name": "nexmoe/VidBee",
+   "stars": 10873,
+   "desc": "Download video and audio from  YouTube ,  TikTok ,  Twitter ,  Instagram ,  Facebook ,  Twitch ,  Bilibili , and 1000+ s",
+   "url": "https://api.github.com/repos/nexmoe/VidBee",
+   "hits": 1,
+   "score": 15.26
+  },
+  {
+   "full_name": "averygan/reclip",
+   "stars": 10765,
+   "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+   "url": "https://github.com/averygan/reclip",
+   "hits": 1,
+   "score": 15.23
+  },
+  {
+   "full_name": "cporter202/API-mega-list",
+   "stars": 7841,
+   "desc": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple auto",
+   "url": "https://github.com/cporter202/API-mega-list",
+   "hits": 1,
+   "score": 14.35
+  },
+  {
+   "full_name": "xxxily/h5player",
+   "stars": 3781,
+   "desc": "This software supports all audio and video websites, such as TikTok, YouTube, Bilibili, TED, Instagram, Twitter, etc. Fe",
+   "url": "https://api.github.com/repos/xxxily/h5player",
+   "hits": 1,
+   "score": 13.13
+  },
+  {
+   "full_name": "Johnserf-Seed/f2",
+   "stars": 2704,
+   "desc": "High-speed downloader for multiple platforms",
+   "url": "https://github.com/Johnserf-Seed/f2",
+   "hits": 1,
+   "score": 12.81
+  },
+  {
+   "full_name": "3441293738/creatorhub",
+   "stars": 2384,
+   "desc": "多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手",
+   "url": "https://api.github.com/repos/3441293738/creatorhub",
+   "hits": 1,
+   "score": 12.72
+  },
+  {
+   "full_name": "AAndyProgram/SCrawler",
+   "stars": 2215,
+   "desc": "🏳️‍🌈 Media downloader from any sites, including Twitter, Reddit, Instagram, BlueSky, TikTok, Threads, Facebook, OnlyFans",
+   "url": "https://api.github.com/repos/AAndyProgram/SCrawler",
+   "hits": 1,
+   "score": 12.66
+  },
+  {
+   "full_name": "yxxbc/downvid",
+   "stars": 1000,
+   "desc": "现代化的开源跨平台视频下载工具 — 一键保存全网无水印高清视频 / A modern, cross-platform open-source video downloader GUI for yt-dlp & FFmpeg",
+   "url": "https://github.com/yxxbc/downvid",
+   "hits": 1,
+   "score": 12.3
+  },
+  {
+   "full_name": "TikHub/TikHub-API-Python-SDK",
+   "stars": 918,
+   "desc": "High-performance asynchronous Douyin(抖音) TikTok Xiaohongshu(小红书) Kuaishou(快手) Weibo(微博) Instagram YouTube(油管) Twitter(X)",
+   "url": "https://github.com/TikHub/TikHub-API-Python-SDK",
+   "hits": 1,
+   "score": 12.28
+  },
+  {
+   "full_name": "OriX6/liveRecordAuto",
+   "stars": 841,
+   "desc": "基于 Electron 的多平台直播自动录制软件 支持抖音/快手 多链接形式",
+   "url": "https://github.com/OriX6/liveRecordAuto",
+   "hits": 1,
+   "score": 12.25
+  },
+  {
+   "full_name": "charliewwdev/douyin",
+   "stars": 645,
+   "desc": "使用Flutter撸一个抖音国外版，看看有多炫",
+   "url": "https://api.github.com/repos/charliewwdev/douyin",
+   "hits": 1,
+   "score": 12.19
+  },
+  {
+   "full_name": "Jane-xiaoer/xiaoer-videolab",
+   "stars": 605,
+   "desc": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前",
+   "url": "https://github.com/Jane-xiaoer/xiaoer-videolab",
+   "hits": 1,
+   "score": 12.18
+  },
+  {
+   "full_name": "lonerge/tiktok_youtube_douyin_handling",
+   "stars": 597,
+   "desc": "爬虫可视化; tiktok视频; youtube视频; 抖音视频  tiktok/youtube的视频到抖音; 抖音的视频到tiktok / youtube平台   使用selenium发布视频",
+   "url": "https://github.com/lonerge/tiktok_youtube_douyin_handling",
+   "hits": 1,
+   "score": 12.18
+  },
+  {
+   "full_name": "Superheroff/douyin_uplod",
+   "stars": 572,
+   "desc": "抖音自动上传发布视频",
+   "url": "https://api.github.com/repos/Superheroff/douyin_uplod",
+   "hits": 1,
+   "score": 12.17
+  },
+  {
+   "full_name": "Evil0ctal/Fast-Powerful-Whisper-AI-Services-API",
+   "stars": 476,
+   "desc": "⚡ 一款用于自动语音识别 (ASR)、翻译的高性能异步 API。不需要购买Whisper API，使用本地运行的Whisper模型进行推理，并支持多GPU并发，针对分布式部署进行设计。还内置了包括TikTok、抖音等社交媒体平台的爬虫，可实",
+   "url": "https://github.com/Evil0ctal/Fast-Powerful-Whisper-AI-Services-API",
+   "hits": 1,
+   "score": 12.14
+  },
+  {
+   "full_name": "antiops/tiktok-downloader-and-rehoster",
+   "stars": 330,
+   "desc": "[ARCHIVED] Tik.fail was a simple website that let users download and archive TikTok videos and allow users to see delete",
+   "url": "https://github.com/antiops/tiktok-downloader-and-rehoster",
+   "hits": 1,
+   "score": 12.1
+  },
+  {
+   "full_name": "katariyanikhil/SaveIt",
+   "stars": 346,
+   "desc": "All in One Social Media (Facebook, WhatsApp, Instagram, YouTube, Tiktok ) downloader. It allows WhatsApp Status Download",
+   "url": "https://github.com/katariyanikhil/SaveIt",
+   "hits": 1,
+   "score": 12.1
+  },
+  {
+   "full_name": "Tairraos/TikDown",
+   "stars": 253,
+   "desc": "TikTok/Douyin downloader (TikTok抖音无水印视频下载器)",
+   "url": "https://github.com/Tairraos/TikDown",
+   "hits": 1,
+   "score": 12.08
+  },
+  {
+   "full_name": "TobyG74/tiktok-api-dl",
+   "stars": 242,
+   "desc": "Wrapper for download Video, Image, Music from Tiktok",
+   "url": "https://github.com/TobyG74/tiktok-api-dl",
+   "hits": 1,
+   "score": 12.07
+  },
+  {
+   "full_name": "546200350/TikTokUploder",
+   "stars": 198,
+   "desc": "Upload video to Tik Tok by sessionId",
+   "url": "https://github.com/546200350/TikTokUploder",
+   "hits": 1,
+   "score": 12.06
+  },
+  {
+   "full_name": "conoro/tiktok-rss-flat",
+   "stars": 110,
+   "desc": "Generate RSS feeds for TikTok accounts",
+   "url": "https://github.com/conoro/tiktok-rss-flat",
+   "hits": 1,
+   "score": 12.03
+  },
+  {
+   "full_name": "Evil0ctal/Douyin_Tiktok_Scraper_PyPi",
+   "stars": 91,
+   "desc": "A PyPi package for scraping data from Douyin and Tiktok.",
+   "url": "https://github.com/Evil0ctal/Douyin_Tiktok_Scraper_PyPi",
+   "hits": 1,
+   "score": 12.03
+  },
+  {
+   "full_name": "missuo/DouyinParsing",
+   "stars": 94,
+   "desc": "TikTok China(Douyin) No Watermark Video & Background Music Parser",
+   "url": "https://github.com/missuo/DouyinParsing",
+   "hits": 1,
+   "score": 12.03
+  },
+  {
+   "full_name": "xsrazy/Download-All-Tiktok-Videos",
+   "stars": 61,
+   "desc": "Download all tiktok videos including description from username without watermark.",
+   "url": "https://api.github.com/repos/xsrazy/Download-All-Tiktok-Videos",
+   "hits": 1,
+   "score": 12.02
+  },
+  {
+   "full_name": "captaincolonelfox/TeleTok",
+   "stars": 52,
+   "desc": "Telegram bot to download TikTok videos",
+   "url": "https://github.com/captaincolonelfox/TeleTok",
+   "hits": 1,
+   "score": 12.02
+  },
+  {
+   "full_name": "cyrus07424/tiktok4j",
+   "stars": 82,
+   "desc": "Unofficial TikTok/DouYin API for Java",
+   "url": "https://github.com/cyrus07424/tiktok4j",
+   "hits": 1,
+   "score": 12.02
+  },
+  {
+   "full_name": "TuanThanhDeveloper/DownLoad_All_User_Video_Douyin",
+   "stars": 31,
+   "desc": "Download every video of user on Douyin (Tiktok version China)",
+   "url": "https://github.com/TuanThanhDeveloper/DownLoad_All_User_Video_Douyin",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "JuneYaooo/awesome-ai-media",
+   "stars": 32,
+   "desc": " A curated list of 150+ AI-powered video creation, social media automation, and content creator tools — with comparison ",
+   "url": "https://github.com/JuneYaooo/awesome-ai-media",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "xsrazy/Tiktok-Mass-Downloader",
+   "stars": 35,
+   "desc": "Download all tiktok videos including description from username without watermark.",
+   "url": "https://api.github.com/repos/xsrazy/Tiktok-Mass-Downloader",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "xsrazy/TikTok-Batch-Downloader",
+   "stars": 46,
+   "desc": "A simple Node.js CLI tool to download multiple TikTok videos without watermarks, complete with metadata export and autom",
+   "url": "https://api.github.com/repos/xsrazy/TikTok-Batch-Downloader",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "Single-Developers/TikTok-DL-BOT",
+   "stars": 38,
+   "desc": " 🏖 TikTok Download URL Generator API Example 🏖",
+   "url": "https://github.com/Single-Developers/TikTok-DL-BOT",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "yxxbc/tiktok-douyin-dl",
+   "stars": 24,
+   "desc": "跨平台抖音 / TikTok 无水印下载器：Windows GUI、macOS/iOS 原生 App、Android 客户端、Linux/macOS CLI 与 WebUI；内置无头浏览器、按端过滤更新日志、远程策略控制。Cross-pla",
+   "url": "https://github.com/yxxbc/tiktok-douyin-dl",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "Evil0ctal/Douyin-TikTok-Video-ID-Decoder",
+   "stars": 29,
+   "desc": "通过位运算从 aweme_id（64位无符号整数）中还原发布时间（秒级），并对低32位进行多维度分析，辅助时间序列研究、分片/QPS推断与风控分析。本工具已使用73条真实数据（抖音53条 / TikTok 20条）进行算法验证。",
+   "url": "https://github.com/Evil0ctal/Douyin-TikTok-Video-ID-Decoder",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "qiu13ping/Sign-DouYin",
+   "stars": 17,
+   "desc": "Douyin/抖音/tiktok signature algorithm for as/cp/mas parameters",
+   "url": "https://github.com/qiu13ping/Sign-DouYin",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "armxe/tiktok-signatures",
+   "stars": 30,
+   "desc": "TikTok/Douyin Signatures from Reverse Engineering",
+   "url": "https://github.com/armxe/tiktok-signatures",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "onurkun/puzzle-captcha-resolver",
+   "stars": 29,
+   "desc": "Douyin and TikTok puzzle captcha resolver",
+   "url": "https://github.com/onurkun/puzzle-captcha-resolver",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "wyg916/DouK-Downloader",
+   "stars": 20,
+   "desc": "抖音、TikTok 与哔哩哔哩素材下载及数据采集工具，提供统一桌面 GUI",
+   "url": "https://github.com/wyg916/DouK-Downloader",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "zyipeng/video-downloader",
+   "stars": 26,
+   "desc": "Universal AI Agent skill for downloading videos from YouTube/Bilibili/Douyin/Xiaohongshu/Kuaishou/Weibo/Twitter/Vimeo/Ti",
+   "url": "https://github.com/zyipeng/video-downloader",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "Everless321/dyDownload",
+   "stars": 20,
+   "desc": "JavaScript port of Python f2 - Multi-platform content downloader (Douyin/TikTok)",
+   "url": "https://github.com/Everless321/dyDownload",
+   "hits": 1,
+   "score": 12.01
+  },
+  {
+   "full_name": "RichToolsMMO/DownLoad_All_User_Video_Tiktok_Douyin_Instagram_Ixigua_YoutubeShort",
+   "stars": 8,
+   "desc": "Software to download all user short videos from TikTok, Douyin, Instagram, Ixigua, and YouTube Shorts without any waterm",
+   "url": "https://github.com/RichToolsMMO/DownLoad_All_User_Video_Tiktok_Douyin_Instagram_Ixigua_YoutubeShort",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "chenlsmr/amemv-crawler",
+   "stars": 5,
+   "desc": "Easily download all the videos from TikTok(amemv).下载指定的 抖音（Douyin） 号的视频,抖音爬虫",
+   "url": "https://github.com/chenlsmr/amemv-crawler",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "aurora-03/VideoGet",
+   "stars": 7,
+   "desc": "Universal Video Downloader - Download videos from 1,800+ platforms with one click. Supports YouTube, Bilibili, Douyin, K",
+   "url": "https://github.com/aurora-03/VideoGet",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "Kevinalejo12376/TikHub-Multi-Functional-Downloader",
+   "stars": 1,
+   "desc": "Cross-platform GUI tool for downloading watermark-free videos from TikTok, Douyin and more. Supports batch downloads and",
+   "url": "https://github.com/Kevinalejo12376/TikHub-Multi-Functional-Downloader",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "Achaiccccc/douyin-dl",
+   "stars": 7,
+   "desc": "基于Evil0ctal/Douyin_TikTok_Download_API项目二次开发，个人 / 家庭用的抖音无水印视频 / 图文下载站：FastAPI + 本地静态页，Docker 一键部署。",
+   "url": "https://api.github.com/repos/Achaiccccc/douyin-dl",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "ydtang8-blip/Douyin_TikTok_Download_API",
+   "stars": 0,
+   "desc": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+   "url": "https://github.com/ydtang8-blip/Douyin_TikTok_Download_API",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "GGwujun/Douyin_TikTok_Download_API",
+   "stars": 0,
+   "desc": "Douyin_TikTok_Download_API",
+   "url": "https://github.com/GGwujun/Douyin_TikTok_Download_API",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "guozhe/railway",
+   "stars": 0,
+   "desc": "Douyin_TikTok_Download_API",
+   "url": "https://github.com/guozhe/railway",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "leeggco/Douyin_TikTok_Download_API",
+   "stars": 0,
+   "desc": "Douyin_TikTok_Download_API",
+   "url": "https://github.com/leeggco/Douyin_TikTok_Download_API",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "Chris19890220/douyin-info-fetcher",
+   "stars": 0,
+   "desc": "Fetch Douyin account information using Douyin_TikTok_Download_API",
+   "url": "https://github.com/Chris19890220/douyin-info-fetcher",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "csrgxtu/eggplant",
+   "stars": 2,
+   "desc": "SDK for tiktok and douyin which support download videos and upload videos apis",
+   "url": "https://github.com/csrgxtu/eggplant",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "MR-RABBY-404/rahad-all-downloader-v2",
+   "stars": 0,
+   "desc": "Free all-in-one video/audio downloader for Node.js — 54 platforms (TikTok, Instagram, Facebook, YouTube, TeraBox, Twitte",
+   "url": "https://api.github.com/repos/MR-RABBY-404/rahad-all-downloader-v2",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "sajjadrate-max/video-downloader",
+   "stars": 0,
+   "desc": "TikTok، YouTube، Instagram، X اور Facebook سے ویڈیو ڈاؤن لوڈر",
+   "url": "https://api.github.com/repos/sajjadrate-max/video-downloader",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "GoreeCloud/tiktok-player",
+   "stars": 0,
+   "desc": "Native Android TikTok browsing, bookmarks, and rights-aware media downloads.",
+   "url": "https://api.github.com/repos/GoreeCloud/tiktok-player",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "odassun1909/Xender",
+   "stars": 0,
+   "desc": "Download Xender — a file manager tool for Windows with free download. This app allows you to wirelessly transfer files, ",
+   "url": "https://api.github.com/repos/odassun1909/Xender",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "rchfdhais14-sudo/TikTok-downloader.io",
+   "stars": 0,
+   "desc": "Загрузчик видео tiktok бесплатно",
+   "url": "https://api.github.com/repos/rchfdhais14-sudo/TikTok-downloader.io",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "data-hunters/tiktok-analyzer",
+   "stars": 11,
+   "desc": "Scrapping and analyzing TikTok videos",
+   "url": "https://github.com/data-hunters/tiktok-analyzer",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "wanghaisheng/gen-brand-social-account-RSS",
+   "stars": 5,
+   "desc": "social media influence is important for any brand",
+   "url": "https://github.com/wanghaisheng/gen-brand-social-account-RSS",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "Alessio91738/Douyin-Smart-Feed-Assistant",
+   "stars": 0,
+   "desc": "抖音视频调教优化推荐流工具：聚焦你的兴趣、打破信息茧房，重塑用户的专属推荐流",
+   "url": "https://api.github.com/repos/Alessio91738/Douyin-Smart-Feed-Assistant",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "justoneapi-labs/justoneapi-python",
+   "stars": 14,
+   "desc": "主账号已千🌟众多用户选择  Just One API - Python SDK: 接口,小红书,小红书数据接口,小红书爬虫,小红书数据采集,Xiaohongshu,RedNote,淘宝,天猫,Taobao,Tmall,抖音,Douyin,抖",
+   "url": "https://api.github.com/repos/justoneapi-labs/justoneapi-python",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "jcaiagent7143-ui/linkdigest-mcp",
+   "stars": 2,
+   "desc": "Xiaohongshu (RedNote) & Douyin links to text for AI agents: image-note OCR, transcripts + on-screen text, viral breakdow",
+   "url": "https://api.github.com/repos/jcaiagent7143-ui/linkdigest-mcp",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "flower0wine/Tiktok-To-Douyin",
+   "stars": 14,
+   "desc": "监听 Tiktok 上某个账号的更新，并全自动搬运到抖音账号",
+   "url": "https://github.com/flower0wine/Tiktok-To-Douyin",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "hyqshr/Douyin-Tiktok-Uploader",
+   "stars": 10,
+   "desc": "抖音自动发布/上传视频脚本。Pyautogui",
+   "url": "https://github.com/hyqshr/Douyin-Tiktok-Uploader",
+   "hits": 1,
+   "score": 12.0
+  },
+  {
+   "full_name": "grandiloquent/TikTok-Douyin-KuaiShou-Downloader-Android",
+   "stars": 5,
+   "desc": "",
+   "url": "https://github.com/grandiloquent/TikTok-Douyin-KuaiShou-Downloader-Android",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "congnt-uet/TiktokDouyinDownloader",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/congnt-uet/TiktokDouyinDownloader",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "boycoisonnd-cmd/douyin-tiktok-downloader",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/boycoisonnd-cmd/douyin-tiktok-downloader",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "duc1408/tiktok-douyin-downloader",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/duc1408/tiktok-douyin-downloader",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "SolickLwz/douyin-tiktok-download-api",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/SolickLwz/douyin-tiktok-download-api",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "TieuHongTuyen/Douyin_TikTok_Download_API",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/TieuHongTuyen/Douyin_TikTok_Download_API",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "ACUKYGA/Douyin_TikTok_Download_API",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/ACUKYGA/Douyin_TikTok_Download_API",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "shuangzixing1976/Douyin_TikTok_Download_API",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/shuangzixing1976/Douyin_TikTok_Download_API",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "py-snake/tiktokpylivechecker",
+   "stars": 0,
+   "desc": "",
+   "url": "https://api.github.com/repos/py-snake/tiktokpylivechecker",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "olusyamazurenco-gif/Tiktokpython",
+   "stars": 0,
+   "desc": "",
+   "url": "https://api.github.com/repos/olusyamazurenco-gif/Tiktokpython",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "brunokali/TiktokPy",
+   "stars": 0,
+   "desc": "",
+   "url": "https://github.com/brunokali/TiktokPy",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "hungnm-1225/tiktok-douyin_extractor",
+   "stars": 0,
+   "desc": "",
+   "url": "https://api.github.com/repos/hungnm-1225/tiktok-douyin_extractor",
+   "hits": 1,
+   "score": 10.0
+  },
+  {
+   "full_name": "yy106-Elaine/Douyin-Tiktok-scraper",
+   "stars": 1,
+   "desc": "",
+   "url": "https://api.github.com/repos/yy106-Elaine/Douyin-Tiktok-scraper",
+   "hits": 1,
+   "score": 10.0
+  }
+ ]
+}
